@@ -1,0 +1,94 @@
+[
+{
+    "action_group_name": "GetPassengerInformation",
+    "description": "useful for searching passenger data by their Code ID",
+    "lambda_": "",
+    "functions": {
+        "name": "GetInformation",
+        "description": "useful for searching passenger data by their Code ID",
+        "parameters":  [
+            {
+            "name": "passenger_id",
+            "type": "string",
+            "description": "passenger code id, a sequence of 4 digits",
+            "required": 1
+        }
+    ]
+    }
+},
+{
+    "action_group_name": "AskTodayDAy",
+    "description": "useful when you want to know today date and time",
+    "lambda_": "",
+    "functions": {
+        "name": "GetTodayDateTime",
+        "description": "useful when you want to know today date and time in DD/MM/YY HH:MM:SS format",
+        "parameters":  [
+            {
+            "name": "date",
+            "type": "string",
+            "description": "date",
+            "required": 0
+        }
+    ]
+    }
+},
+
+{
+    "action_group_name": "CreateSupportTicket",
+    "description": "Get or create support tickets for customers issues",
+    "functions": {
+        "name": "newTicket",
+        "description": "Create a new support ticket. Use this when customer either have an issue with the service that cannot be resolved using only the documentation.",
+        "parameters":  [
+            {
+            "name": "email",
+            "type": "string",
+            "description": "customer's email",
+            "required": 1
+        },
+        {
+            "name": "name",
+            "type": "string",
+            "description": "passanger's full name",
+            "required": 1
+        },
+        {
+            "name": "description",
+            "type": "string",
+            "description": "Customer issue in 1 paragraph. Be concise and clear.",
+            "required": 1
+        },
+        {
+            "name": "passenger_id",
+            "type": "string",
+            "description": "passenger code id, a sequence of 4 digits",
+            "required": 0
+        },
+        {
+            "name": "additional_data",
+            "type": "string",
+            "description": "additional data that could be useful",
+            "required": 0
+        }
+    ]
+    }
+},
+{
+    "action_group_name": "GetSupporTicketStatus",
+    "description": "Status of a support ticket. Use this when customer needs to know the status of an existing ticket. The input is the ticket number (8 digit)",
+    "lambda_": "",
+    "functions": {
+        "name": "getTicket",
+        "description": "Use this when customer needs to know the status of an existing ticket",
+        "parameters":  [
+            {
+            "name": "ticket_number",
+            "type": "string",
+            "description": "ticket ID, a sequence of 4 digits",
+            "required": 1
+        }
+    ]
+    }
+}
+]
