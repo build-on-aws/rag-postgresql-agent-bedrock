@@ -29,7 +29,7 @@ class DynamodbWithSampleDataStack(Construct):
         ds = CustomResource(
             self,
             "S3DS",
-            resource_type="Custom::S3DataSource",
+            resource_type="Custom::CSVDataSource",
             service_token=lambda_function.function_arn,
             properties=dict(
                 table_name=table.table_name, sample_data_file=file_name

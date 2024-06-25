@@ -1,232 +1,232 @@
 passenger_id,Age,Airport_Continent,Airport_Country_Code,Airport_Name,Arrival_Airport,Continents,Country_Name,Departure_Date,First_Name,Flight_Status,Gender,Last_Name,Nationality,Pilot_Name
-2116,45,EU,HR,Osijek Airport,OSI,Europe,Croatia,6/24/2022,Dorothea,On Time,Female,Rogister,Sweden,Trevor Braunston
-9618,62,NAM,US,Coldfoot Airport,CXF,North America,United States,6/28/2022,Edithe,On Time,Female,Leggis,Japan,Fransisco Hazeldine
-9757,48,NAM,US,Lebanon Municipal Airport,LEB,North America,United States,5/23/2022,Tansy,Delayed,Female,Symons,Indonesia,Olly Pawelek
-1127,54,AS,SA,Turaif Domestic Airport,TUI,Asia,Saudi Arabia,02-08-2022,Rutger,Cancelled,Male,Georgeon,Myanmar,Steward Sainter
-9056,46,NAM,US,Hattiesburg Laurel Regional Airport,PIB,North America,United States,7/27/2022,Marjory,Cancelled,Female,Franz,Nigeria,Padget Diben
-1045,54,SAM,BR,Monte Carmelo Airport,0,South America,Brazil,9/14/2022,Krishnah,On Time,Male,Dabels,Russia,Freddie Wallach
-6889,20,NAM,US,Nikolai Airport,NIB,North America,United States,08-11-2022,Anestassia,On Time,Female,Vauls,Albania,Lucio Notley
-9209,55,SAM,BR,Coronel Horácio de Mattos Airport,LEC,South America,Brazil,06-10-2022,Lora,On Time,Female,Durbann,Brazil,Inglis Dolley
-2863,45,AF,MG,Port Bergé Airport,WPB,Africa,Madagascar,8/24/2022,Bobbye,On Time,Female,Patmore,China,Stella Pittham
-3575,85,NAM,DO,Casa De Campo International Airport,LRM,North America,Dominican Republic,04-04-2022,Violetta,Delayed,Female,Francois,Indonesia,Christel Blues
-3677,3,NAM,US,Spirit of St Louis Airport,SUS,North America,United States,7/17/2022,Cordie,On Time,Female,Rosenberger,Brazil,Enrica Ferrarini
-2093,56,NAM,CA,Victoria Harbour Seaplane Base,YWH,North America,Canada,01-12-2022,Gene,Delayed,Male,Cottham,Philippines,Sib Feragh
-4146,37,SAM,CO,Orocue Airport,ORC,South America,Colombia,08-12-2022,Arel,Cancelled,Male,Tyson,Spain,Danie Maggiore
-2075,36,SAM,BR,Maestro Wilson Fonseca Airport,STM,South America,Brazil,04-07-2022,Perceval,Cancelled,Male,Dallosso,Vietnam,Sharyl Eastmead
-9649,19,OC,NC,Nesson Airport,HLU,Oceania,New Caledonia,3/25/2022,Murvyn,Cancelled,Male,Duff,Germany,Dorine Timmermann
-8302,33,NAM,KY,Gerrard Smith International Airport,CYB,North America,Cayman Islands,06-11-2022,Gauthier,Cancelled,Male,Elsip,Uruguay,Leslie Delmage
-9938,6,AS,VN,Cà Mau Airport,CAH,Asia,Viet Nam,1/13/2022,Leandra,Cancelled,Female,Demer,Colombia,Lizbeth Snaden
-4419,45,NAM,CA,Fort Mcpherson Airport,ZFM,North America,Canada,12-04-2022,Maia,Delayed,Female,Kidwell,Philippines,Dorise Ronchka
-8444,19,NAM,CA,St Augustin Airport,YIF,North America,Canada,11-05-2022,Dorisa,Cancelled,Female,Skill,Ukraine,Ilyse Bartleman
-7225,70,SAM,CO,El Dorado International Airport,BOG,South America,Colombia,03-12-2022,Edlin,On Time,Male,Theobald,Poland,Lisha Retallick
-7898,21,OC,PG,Pureni Airport,PUI,Oceania,Papua New Guinea,8/15/2022,Kelsy,Delayed,Female,Danhel,Indonesia,Sacha Munford
-9820,23,EU,RU,Nalchik Airport,NAL,Europe,Russian Federation,11/26/2022,Rodolph,Delayed,Male,Grewcock,Kazakhstan,Constantine Leworthy
-3196,87,NAM,US,Elkhart Municipal Airport,EKI,North America,United States,3/20/2022,Sayre,Cancelled,Male,Stroyan,Indonesia,Austine Crewe
-5094,3,AS,ID,Yuruf Airport,RUF,Asia,Indonesia,05-02-2022,Fidelio,Delayed,Male,Guerry,China,Caye Donat
-1457,79,OC,PG,Talasea Airport,TLW,Oceania,Papua New Guinea,07-07-2022,Cordy,On Time,Male,Plenderleith,Sweden,Fifine Dodshon
-4351,57,NAM,US,Elkhart Municipal Airport,EKI,North America,United States,11/29/2022,Rufus,Cancelled,Male,Bernardini,Peru,Brittan Barends
-2583,2,NAM,NI,Augusto C. Sandino (Managua) International Airport,MGA,North America,Nicaragua,02-02-2022,Ransell,Delayed,Male,Evins,Russia,Berna Tenwick
-8677,89,AF,CM,Kribi Airport,KBI,Africa,Cameroon,1/13/2022,Biddy,On Time,Female,Rief,Vietnam,Darlleen Twohig
-8662,37,AS,ID,Sultan Khairun Babullah Airport,TTE,Asia,Indonesia,05-11-2022,Carlota,Cancelled,Female,Llewhellin,China,Reube Branwhite
-9016,89,AF,MR,Tamchakett Airport,THT,Africa,Mauritania,10/25/2022,Findley,Delayed,Male,Godleman,Indonesia,Mitchell Parsisson
-3917,54,NAM,US,Central Maine Airport of Norridgewock,OWK,North America,United States,4/13/2022,Collin,Delayed,Male,Ciepluch,China,Torin Le Leu
-1664,9,NAM,US,Phoenix-Mesa-Gateway Airport,AZA,North America,United States,06-10-2022,Skelly,On Time,Male,Gopsell,Czech Republic,Deborah Mathissen
-5029,89,AF,ZA,Arathusa Safari Lodge Airport,ASS,Africa,South Africa,10-07-2022,Carolann,Cancelled,Female,Yves,Poland,Dulci Milne
-1127,62,AS,RU,Mirny Airport,MJZ,Asia,Russian Federation,2/21/2022,Anders,On Time,Male,Treadger,Madagascar,Giacomo Tooth
-8305,79,AS,IR,Bandar Lengeh Airport,BDH,Asia,"""Iran, Islamic Republic of""",12-05-2022,Bernardo,Cancelled,Male,Bigland,Philippines,Corissa Lamps
-2571,76,NAM,US,McGhee Tyson Airport,TYS,North America,United States,02-07-2022,Margaux,Delayed,Female,Lattin,Guatemala,Sydelle Danher
-7848,27,EU,IS,Fáskrúðsfjörður Airport,FAS,Europe,Iceland,1/13/2022,Artemus,On Time,Male,Brewitt,China,Jayme Witard
-8229,18,OC,PG,Hatzfeldhaven Airport,HAZ,Oceania,Papua New Guinea,5/25/2022,Basil,Cancelled,Male,Canon,Portugal,Siobhan Philippon
-6577,87,OC,AU,Leinster Airport,LER,Oceania,Australia,8/21/2022,Flin,Delayed,Male,Bordone,Philippines,Hunt Sommerlie
-1306,25,AS,ID,Muhammad Salahuddin Airport,BMU,Asia,Indonesia,8/28/2022,Marlin,Cancelled,Male,Yegorev,Egypt,Saidee Sellers
-8498,54,NAM,CR,Islita Airport,PBP,North America,Costa Rica,7/15/2022,Dermot,Cancelled,Male,Stainburn,Armenia,Buddy Guslon
-2649,76,EU,DE,"""Magdeburg """"City"""" Airport""",ZMG,Europe,Germany,12-06-2022,Clemmie,Cancelled,Male,Harbertson,Ukraine,Tadio Hayne
-8560,77,AF,BF,Ouahigouya Airport,OUG,Africa,Burkina Faso,4/29/2022,Eugenius,On Time,Male,Headon,Ukraine,Ibrahim Cotton
-5923,66,OC,PG,Wanuma Airport,WNU,Oceania,Papua New Guinea,09-01-2022,Magda,Cancelled,Female,Nealand,United States,Brnaba Lilburne
-7183,74,AF,DZ,In Guezzam Airport,INF,Africa,Algeria,1/20/2022,Lissa,Delayed,Female,Thynn,Luxembourg,Sean Searchwell
-8990,76,AS,JP,Akita Airport,AXT,Asia,Japan,06-03-2022,Ag,Delayed,Female,Gumby,China,Annamarie Shrimpton
-7438,78,NAM,US,Omar N Bradley Airport,MBY,North America,United States,5/19/2022,Cy,Cancelled,Male,Servante,China,Ludovika Purdon
-7183,74,NAM,CA,Campbell River Airport,YBL,North America,Canada,7/22/2022,Rudolph,Delayed,Male,Housbie,Iran,Kirby Varvell
-7987,44,NAM,US,Zahn's Airport,AYZ,North America,United States,11/23/2022,Ashlie,Delayed,Female,Rotham,Ireland,Vicky Silmon
-1615,85,SAM,AR,Valcheta Airport,VCF,South America,Argentina,10/23/2022,Con,On Time,Male,Kaine,Yemen,Ginger Dominichelli
-8988,23,EU,SE,Gällivare Airport,GEV,Europe,Sweden,5/21/2022,Elana,Delayed,Female,Heisham,Greece,Nathanial Gretton
-2270,51,AS,LK,Batticaloa Airport,BTC,Asia,Sri Lanka,02-12-2022,Constancy,Cancelled,Female,Darke,China,Bron Alben
-7100,80,NAM,CA,Brandon Municipal Airport,YBR,North America,Canada,4/14/2022,Allx,Cancelled,Female,Fretter,Brazil,Saxon Stoker
-5767,30,NAM,US,Columbus Lowndes County Airport,UBS,North America,United States,1/13/2022,Seline,Cancelled,Female,Garvill,Philippines,Dael Schubuser
-2495,12,NAM,CA,Schefferville Airport,YKL,North America,Canada,04-05-2022,Tobe,Cancelled,Female,Torrejon,Brazil,Gaelan Fforde
-9889,90,NAM,GT,El Petén Airport,TKM,North America,Guatemala,05-05-2022,Sydney,On Time,Male,MacGhee,Guatemala,Ambur Boden
-8001,6,AF,CG,Gamboma Airport,GMM,Africa,Congo,04-09-2022,Jessamyn,Delayed,Female,Buddles,Peru,Beau Stevens
-8227,10,OC,PG,Omora Airport,OSE,Oceania,Papua New Guinea,08-01-2022,Sergio,On Time,Male,Edmonson,Sweden,Woodie Stearley
-5155,87,NAM,US,White Mountain Airport,WMO,North America,United States,7/20/2022,Lilli,Delayed,Female,Sarath,Sweden,Ollie Ventom
-1363,58,NAM,CA,Gorge Harbour Seaplane Base,YGE,North America,Canada,08-05-2022,Celina,Cancelled,Female,Boothebie,Latvia,Balduin Ingman
-5944,24,SAM,BR,João Durval Carneiro Airport,FEC,South America,Brazil,1/25/2022,Bryna,On Time,Female,Monson,Poland,Elissa Ledwich
-3460,29,OC,PG,Bewani Airport,BWP,Oceania,Papua New Guinea,11/29/2022,Benson,On Time,Male,Hook,Indonesia,Kristi Curteis
-6970,80,NAM,CA,Tahsis Seaplane Base,ZTS,North America,Canada,11/16/2022,Noelyn,On Time,Female,Penquet,Brazil,Harlene Illingsworth
-1927,73,NAM,BS,Colonel Hill Airport,CRI,North America,Bahamas,12-11-2022,Bibby,Delayed,Female,Evershed,Indonesia,Georgena Scanderet
-3996,86,NAM,US,Valle Airport,VLE,North America,United States,5/19/2022,West,Cancelled,Male,Kernermann,Norway,Rosamund Gauchier
-3792,53,NAM,US,Wiley Post Will Rogers Memorial Airport,BRW,North America,United States,12-05-2022,Halie,Delayed,Female,Jewar,France,Katerine Bartolomivis
-1835,68,NAM,US,Okmulgee Regional Airport,OKM,North America,United States,7/15/2022,Terri,On Time,Female,Palle,Poland,Maisey Kubis
-1919,42,AF,BW,Jwaneng Airport,JWA,Africa,Botswana,3/28/2022,Dunstan,On Time,Male,Fyrth,China,Sallie Jessop
-1730,22,AF,GQ,Malabo Airport,SSG,Africa,Equatorial Guinea,9/23/2022,Lyndsie,Delayed,Female,Dyball,Czech Republic,Arlina Legging
-4395,62,SAM,BR,Monte Dourado Airport,MEU,South America,Brazil,12/28/2022,Eran,On Time,Female,Summerill,Afghanistan,Fabien Lipprose
-4795,82,AF,DZ,Tsletsi Airport,QDJ,Africa,Algeria,11-01-2022,Happy,Cancelled,Female,Jaskowicz,Mexico,Meridith Dibbe
-6442,37,NAM,US,Dallas Love Field,DAL,North America,United States,5/31/2022,Loree,On Time,Female,Fishpond,Ukraine,Gaelan Kenyam
-9748,8,AF,MR,Timbedra Airport,TMD,Africa,Mauritania,2/19/2022,Joellyn,On Time,Female,Stutter,Croatia,Janaya Retchford
-5264,73,EU,GB,Duxford Aerodrome,QFO,Europe,United Kingdom,10/30/2022,Rand,Cancelled,Male,Bram,Ivory Coast,Stanislas Tiffin
-7727,52,OC,AU,Helenvale Airport,HLV,Oceania,Australia,05-02-2022,Newton,Delayed,Male,Berni,Argentina,Rouvin Siflet
-4248,79,AS,CN,Jiayuguan Airport,JGN,Asia,China,5/29/2022,Mead,On Time,Male,Syer,Venezuela,Monique Edworthye
-6965,6,AS,CN,Guanghan Airport,GHN,Asia,China,2/24/2022,Lincoln,Cancelled,Male,Casburn,Vietnam,Coralie Chatterton
-4729,54,NAM,CA,Geraldton Greenstone Regional Airport,YGQ,North America,Canada,7/28/2022,Isidor,Cancelled,Male,Rundall,Peru,Claresta Charter
-4312,69,OC,NZ,Kaitaia Airport,KAT,Oceania,New Zealand,4/24/2022,Neal,Delayed,Male,Kulver,Thailand,Roldan Doyley
-2959,54,OC,AU,Minlaton Airport,XML,Oceania,Australia,12/15/2022,Ransom,On Time,Male,Chippindale,Peru,Lenci Aitkin
-2038,73,NAM,US,Denver International Airport,DEN,North America,United States,05-07-2022,Tan,On Time,Male,Connold,Sweden,Bevvy Cleall
-6747,21,NAM,US,Gillespie Field,SEE,North America,United States,2/25/2022,Bay,On Time,Male,Pencost,China,Ebonee Tree
-6650,74,AS,SY,Al Thaurah Airport,SOR,Asia,Syrian Arab Republic,11/15/2022,Rozelle,Delayed,Female,Neubigin,China,Missy Yepiskopov
-7482,76,NAM,US,Lawson Army Air Field (Fort Benning),LSF,North America,United States,7/21/2022,Francoise,Delayed,Female,Mustill,Netherlands,Carlye Egan
-3855,14,NAM,US,Naval Outlying Field Imperial Beach (Ream Field),NRS,North America,United States,9/26/2022,Fons,On Time,Male,Schrieves,Albania,Reinald Toffler
-7644,9,OC,PG,Gora Airstrip,GOC,Oceania,Papua New Guinea,6/25/2022,Gardiner,On Time,Male,Ferbrache,Sweden,Pamela Franiak
-3382,12,NAM,US,Hutchinson County Airport,BGD,North America,United States,07-03-2022,Arlee,On Time,Female,Levine,China,Kale Cabbell
-3599,53,SAM,BR,Antônio Guerreiro Airport,GMS,South America,Brazil,9/16/2022,Jameson,On Time,Male,Sayce,Brazil,Maddy Siuda
-3363,30,NAM,CA,Wabush Airport,YWK,North America,Canada,09-06-2022,Kaitlin,Cancelled,Female,Gaven,Sao Tome and Principe,Leshia Risby
-8305,24,NAM,US,Crested Butte Airpark,CSE,North America,United States,2/19/2022,Paige,Delayed,Male,Hayhow,Sweden,Clyde Winn
-9107,66,OC,AU,Yam Island Airport,XMY,Oceania,Australia,12/27/2022,Jewel,On Time,Female,Betteney,China,Bonnee Summerson
-1548,7,EU,IT,Genoa Cristoforo Colombo Airport,GOA,Europe,Italy,12/18/2022,Ebony,On Time,Female,Knappitt,Russia,Laurence Queenborough
-4036,45,NAM,CA,Gaspé (Michel-Pouliot) Airport,YGP,North America,Canada,5/15/2022,Dredi,Cancelled,Female,Curd,Russia,Fitzgerald Alberti
-1683,28,SAM,VE,Zaraza Airport,ZRZ,South America,"""Venezuela, Bolivarian Republic of""",9/23/2022,Janella,On Time,Female,Hardaker,Colombia,Shaylynn Alcott
-7676,17,OC,AU,Kalbarri Airport,KAX,Oceania,Australia,5/29/2022,Lorilyn,On Time,Female,Annion,China,Annaliese Cramond
-8374,65,OC,PG,Awaba Airport,AWB,Oceania,Papua New Guinea,10/28/2022,Arlena,Delayed,Female,Ridwood,Ireland,Alyosha Damp
-8912,32,NAM,US,Farmington Regional Airport,FAM,North America,United States,03-07-2022,Amberly,Delayed,Female,Handling,China,Lothaire Eades
-1251,39,OC,PG,Buka Airport,BUA,Oceania,Papua New Guinea,10/29/2022,Piggy,Delayed,Male,Hugle,Philippines,Far Cicci
-7760,19,AS,NP,Bhojpur Airport,BHP,Asia,Nepal,12-10-2022,Cirilo,Delayed,Male,Camoletto,China,Louisa Worvell
-7477,65,AS,IR,Lar Airport,LRR,Asia,"""Iran, Islamic Republic of""",7/31/2022,Gabriella,Delayed,Female,Patry,China,Clyve Dickerson
-1491,70,OC,AU,St George Airport,SGO,Oceania,Australia,07-12-2022,Hobie,Delayed,Male,Skace,China,Jenn Backshaw
-2836,35,EU,DE,RAF Wildenrath,WID,Europe,Germany,2/17/2022,Gisella,Cancelled,Female,Watters,Philippines,Sherwin Izen
-5030,4,OC,PG,Tapini Airport,TPI,Oceania,Papua New Guinea,7/30/2022,Care,Cancelled,Male,Kearton,Kenya,Britt Viney
-4966,11,SAM,BR,Soledade Airport,0,South America,Brazil,10-03-2022,Modesty,Cancelled,Female,Zink,Ukraine,Charissa Figures
-5171,49,NAM,US,Owatonna Degner Regional Airport,OWA,North America,United States,01-04-2022,Adlai,On Time,Male,Tilmouth,Serbia,Caresse Sumpner
-4820,68,AF,MZ,Paradise Island Airport,NTC,Africa,Mozambique,10/29/2022,Randie,On Time,Male,Jankin,Mexico,Ibrahim Andraud
-9903,1,SAM,EC,Nueva Loja Airport,LGQ,South America,Ecuador,12/17/2022,Gearalt,Delayed,Male,Bynold,China,Mic Rosenau
-6710,23,NAM,US,Southwest Florida International Airport,RSW,North America,United States,3/24/2022,Franz,Cancelled,Male,Roset,Greece,Stanford Garnam
-3021,50,SAM,BO,Roboré Airport,RBO,South America,"""Bolivia, Plurinational State of""",5/13/2022,Andy,Cancelled,Male,Kettleson,China,Ivett Connikie
-4650,66,AS,IN,Tezu Airport,TEI,Asia,India,5/23/2022,Shermy,Delayed,Male,Gatchell,Colombia,Albrecht Lorne
-6080,65,OC,PG,Long Island Airport,LSJ,Oceania,Papua New Guinea,10/23/2022,Des,Cancelled,Male,Sutehall,Indonesia,Bartholomeus Gherardini
-3790,29,SAM,CO,Hato Corozal Airport,HTZ,South America,Colombia,08-06-2022,Jayme,Delayed,Female,Dairton,Indonesia,Kaye Clews
-1518,41,OC,PG,Doini Airport,DOI,Oceania,Papua New Guinea,07-06-2022,Genevra,On Time,Female,Shipperbottom,Ethiopia,Tandie Willbraham
-5957,16,NAM,CA,Black Tickle Airport,YBI,North America,Canada,02-12-2022,Brunhilda,Delayed,Female,Davley,Indonesia,Constantino Flanigan
-7796,75,AS,ID,Sangir Airport,SAE,Asia,Indonesia,10-01-2022,Corby,On Time,Male,Van Der Straaten,Kazakhstan,Maureen Slimming
-1352,39,NAM,MX,Nuevo Casas Grandes Airport,NCG,North America,Mexico,5/27/2022,Porty,Cancelled,Male,Jori,Tunisia,Rasia Fidelus
-4724,51,NAM,MX,General Lucio Blanco International Airport,REX,North America,Mexico,10/19/2022,Flora,On Time,Female,Delgardillo,Philippines,Keeley Kiltie
-7593,64,OC,VU,Futuna Airport,FTA,Oceania,Vanuatu,09-04-2022,Felizio,Cancelled,Male,Kevern,Russia,Munroe Humble
-2924,35,AF,ZM,Kasaba Bay Airport,ZKB,Africa,Zambia,4/14/2022,Clevie,Delayed,Male,Clubbe,China,Fenelia Print
-6729,61,NAM,US,Cincinnati Northern Kentucky International Airport,CVG,North America,United States,6/16/2022,Zelig,On Time,Male,Brinded,Brazil,Cosmo Rossbrook
-4058,14,OC,WS,Faleolo International Airport,APW,Oceania,Samoa,7/22/2022,Magdalen,Delayed,Female,Claiden,China,Micky Luno
-9075,52,NAM,GT,Mundo Maya International Airport,FRS,North America,Guatemala,5/25/2022,Cairistiona,Cancelled,Female,Tummond,Tanzania,Burnaby De Mitris
-2805,85,NAM,US,Springfield Branson National Airport,SGF,North America,United States,08-09-2022,Travers,Cancelled,Male,Selwyne,Colombia,Annetta Vasyunkin
-8694,36,NAM,CA,Merritt Airport,YMB,North America,Canada,11-03-2022,Henryetta,Delayed,Female,Noice,Chile,Sybilla Hargey
-4978,46,NAM,CA,Amos/Magny Airport,YEY,North America,Canada,4/18/2022,Fairleigh,On Time,Male,Hagger,China,Andre Sissel
-6997,90,OC,AU,Mullewa Airport,MXU,Oceania,Australia,09-10-2022,Vernen,Delayed,Male,Ivakhnov,China,Lidia Kleinert
-1892,35,NAM,US,University of Oklahoma Westheimer Airport,OUN,North America,United States,1/26/2022,Chris,On Time,Female,Body,Sweden,Loretta Bumphries
-9256,62,AS,IR,Shahid Sadooghi Airport,AZD,Asia,"""Iran, Islamic Republic of""",8/16/2022,Bethany,Cancelled,Female,Corona,Tanzania,Elmer Baldock
-3768,35,EU,IT,Venice Marco Polo Airport,VCE,Europe,Italy,8/20/2022,Aleda,On Time,Female,Pigram,Palestinian Territory,Daryn Bardsley
-3859,73,AF,ZA,Tanda Tula Airport,TDT,Africa,South Africa,6/17/2022,Winne,Cancelled,Female,Cowland,France,Ernaline Klain
-9681,15,AS,MN,Khovd Airport,HVD,Asia,Mongolia,10/13/2022,Marylinda,Cancelled,Female,Gussie,Poland,Dyanna Edmondson
-5490,55,SAM,BR,Canarana Airport,CQA,South America,Brazil,9/26/2022,Cymbre,Cancelled,Female,Steeden,Russia,Margit Filon
-9917,79,NAM,US,Bemidji Regional Airport,BJI,North America,United States,6/19/2022,Virgil,Cancelled,Male,Markussen,Philippines,Bird Boarder
-3166,7,AS,CN,Handan Airport,HDG,Asia,China,03-08-2022,Gwenore,Delayed,Female,Smaridge,Russia,Doria Coils
-3637,58,OC,AU,Diamantina Lakes Airport,DYM,Oceania,Australia,11/23/2022,Tamas,Delayed,Male,Vigneron,Mali,Clemente Mateev
-7429,47,AS,PK,Loralai Airport,LRG,Asia,Pakistan,3/19/2022,Kalie,Delayed,Female,Scoble,Sweden,Madelena Lennarde
-3094,78,AS,RU,Aldan Airport,ADH,Asia,Russian Federation,08-07-2022,Mattias,Cancelled,Male,Darrell,Honduras,Masha Banville
-3852,23,OC,AU,South Galway Airport,ZGL,Oceania,Australia,11-10-2022,Natalya,Cancelled,Female,Offner,Czech Republic,Christalle Lifton
-1069,80,AS,JP,Tarama Airport,TRA,Asia,Japan,4/13/2022,Sherwood,On Time,Male,Woolaston,Portugal,Ardelia Milch
-5450,36,NAM,DM,Canefield Airport,DCF,North America,Dominica,5/19/2022,Mischa,Delayed,Male,Caulwell,Mexico,Cari Moens
-9634,51,AF,KE,Mulika Lodge Airport,JJM,Africa,Kenya,7/27/2022,Anabella,Cancelled,Female,Tutchings,China,Joceline Frangleton
-1913,6,AF,CD,Kasenga Airport,KEC,Africa,"""Congo, The Democratic Republic of the""",10/16/2022,Ephrayim,On Time,Male,Bedford,China,Park Thody
-7504,54,NAM,US,Susanville Municipal Airport,SVE,North America,United States,3/21/2022,Haroun,On Time,Male,holmes,United States,Xerxes Arkcoll
-4075,54,AF,SD,En Nahud Airport,NUD,Africa,Sudan,5/18/2022,Nicole,Cancelled,Female,Gages,South Africa,Chet Carryer
-7921,7,NAM,US,Kalaupapa Airport,LUP,North America,United States,4/27/2022,Trudey,On Time,Female,Wagge,Poland,Manya Vaun
-8096,54,AS,CN,Nanjing Lukou Airport,NKG,Asia,China,10-11-2022,Francine,Cancelled,Female,Adolfsen,Indonesia,Leanora Romney
-1884,39,EU,HR,Rijeka Airport,RJK,Europe,Croatia,4/27/2022,Domenico,Cancelled,Male,Cadman,Ukraine,Tailor McGilroy
-7856,45,EU,BG,Sofia Airport,SOF,Europe,Bulgaria,1/20/2022,Arlyn,On Time,Female,Boole,Philippines,Cindie Critten
-3679,82,AF,DZ,Mecheria Airport,MZW,Africa,Algeria,05-12-2022,Pavlov,Cancelled,Male,Hadye,Brazil,Stefano Klampt
-8334,62,OC,AU,Port Lincoln Airport,PLO,Oceania,Australia,03-06-2022,Chrotoem,On Time,Male,Abels,Russia,Che Brett
-1993,21,NAM,US,Sawyer International Airport,MQT,North America,United States,5/17/2022,Lamond,Cancelled,Male,Ahmed,Croatia,Liv Heinig
-8672,83,NAM,US,Moody Air Force Base,VAD,North America,United States,8/17/2022,Yasmin,Delayed,Female,Findlow,Macedonia,Parnell Gosby
-5861,71,NAM,PA,Ruben Cantu Airport,SYP,North America,Panama,02-06-2022,Briant,Delayed,Male,De La Haye,Russia,Alina Flooks
-8094,85,AS,MY,Sepulot Airport,SPE,Asia,Malaysia,11-01-2022,Virginie,Cancelled,Female,Vaneev,France,Wadsworth Gillyett
-8234,90,NAM,US,Amchitka Army Airfield,AHT,North America,United States,06-07-2022,Pamella,Cancelled,Female,Eaden,Indonesia,Pearle Assiter
-7611,56,EU,RU,Krasnoselkup Airport,KKQ,Europe,Russian Federation,8/19/2022,Bryn,On Time,Female,Pratley,Maldives,Loria Brogini
-5825,16,OC,PG,Moro Airport,MXH,Oceania,Papua New Guinea,05-11-2022,Averell,Cancelled,Male,Shellsheere,Albania,Syman Milham
-9827,37,NAM,US,Lemhi County Airport,SMN,North America,United States,1/23/2022,Paulie,Delayed,Male,Dunnet,Serbia,Ned Marnes
-6228,54,NAM,US,Venice Municipal Airport,VNC,North America,United States,04-01-2022,Justinn,On Time,Female,Ishchenko,Pakistan,Sapphira MacKinnon
-3359,88,NAM,US,Waycross Ware County Airport,AYS,North America,United States,9/17/2022,Leroi,Cancelled,Male,Raeburn,Brazil,Binny Launder
-5237,75,NAM,CA,Shuswap Regional Airport,YSN,North America,Canada,10-05-2022,Heath,On Time,Male,Lackmann,China,Trude Querrard
-5375,45,EU,SK,Lučenec Airport,LUE,Europe,Slovakia,7/27/2022,Kirbee,On Time,Female,Wrenn,Armenia,Mary Hurch
-9444,37,OC,AU,Bairnsdale Airport,BSJ,Oceania,Australia,01-11-2022,Dasha,On Time,Female,Eppson,Indonesia,Merci Jeduch
-8493,77,OC,AU,Cudal Airport,CUG,Oceania,Australia,3/24/2022,Catriona,Delayed,Female,Beaument,Russia,Margie Beal
-2450,22,OC,AU,Etadunna Airport,ETD,Oceania,Australia,4/26/2022,Brien,On Time,Male,Gatherer,Poland,Liv Lydall
-7987,76,EU,GB,Newcastle Airport,NCL,Europe,United Kingdom,3/17/2022,Reinaldo,On Time,Male,Caines,Indonesia,Kakalina Usmar
-5849,26,EU,PT,João Paulo II Airport,PDL,Europe,Portugal,8/26/2022,Ajay,On Time,Female,Durward,Russia,Bertha Piborn
-1697,70,EU,RU,Ust-Maya Airport,UMS,Europe,Russian Federation,11-10-2022,Peterus,Delayed,Male,Lettson,Botswana,Eugine Mainwaring
-7438,75,NAM,US,Grumman Bethpage Airport,BPA,North America,United States,8/21/2022,Michele,On Time,Male,Olenchenko,Russia,Bessie Toller
-3227,12,EU,RU,Talakan Airport,TLK,Europe,Russian Federation,06-12-2022,Ikey,On Time,Male,Dowty,China,Beverlee Da Costa
-8615,62,AS,CN,Guilin Liangjiang International Airport,KWL,Asia,China,09-05-2022,Warner,Cancelled,Male,Driutti,China,Marita Holtom
-1833,66,OC,AU,Cue Airport,CUY,Oceania,Australia,10/16/2022,Jedidiah,Cancelled,Male,Malins,Indonesia,Perren Salkild
-9896,73,AS,MM,Pakhokku Airport,PKK,Asia,Myanmar,05-12-2022,Artair,Delayed,Male,Ondrich,Indonesia,Phoebe Quilkin
-9193,32,OC,PG,Moki Airport,MJJ,Oceania,Papua New Guinea,12/21/2022,Dun,Cancelled,Male,Craythorn,China,Dunn MacSkeagan
-8311,43,NAM,US,Lihue Airport,LIH,North America,United States,1/31/2022,Lennard,On Time,Male,Giorgi,Peru,Jordana Lantaff
-2155,88,EU,DE,Rostock-Laage Airport,RLG,Europe,Germany,8/23/2022,Gabrila,On Time,Female,Speedin,Portugal,Hope O'Doherty
-5271,37,OC,AU,Groote Eylandt Airport,GTE,Oceania,Australia,3/30/2022,Quentin,On Time,Male,Plaschke,Syria,Honey Gallaway
-8859,54,NAM,US,Centralia Municipal Airport,ENL,North America,United States,3/24/2022,Neil,Cancelled,Male,McCory,Portugal,Odella Gregoretti
-6583,38,OC,AU,Dalby Airport,DBY,Oceania,Australia,5/15/2022,Yuri,On Time,Male,Crossfield,Peru,Crista Timewell
-4373,22,AF,ZA,Oudtshoorn Airport,OUH,Africa,South Africa,7/18/2022,Dyna,Cancelled,Female,De'Vere - Hunt,China,Neila Giercke
-2389,12,AS,CN,Enshi Airport,ENH,Asia,China,3/29/2022,Alvin,Delayed,Male,Wenzel,Greece,Alfie MacMorland
-7422,77,OC,AU,Badu Island Airport,BDD,Oceania,Australia,11/24/2022,Joeann,Delayed,Female,Gotcliff,Kyrgyzstan,Brandais Crielly
-2207,13,SAM,PY,Fuerte Olimpo Airport,OLK,South America,Paraguay,7/21/2022,Sheridan,Delayed,Male,Casino,Ukraine,Carrissa McCooke
-3411,41,AS,IN,Pune Airport,PNQ,Asia,India,2/19/2022,Myrtie,On Time,Female,MacScherie,Laos,Claude Ashington
-3716,85,OC,PG,Kavieng Airport,KVG,Oceania,Papua New Guinea,6/22/2022,Willie,On Time,Male,Netherwood,Russia,Shirlee Weldrake
-1709,25,NAM,HN,Copán Ruinas Airport,RUY,North America,Honduras,7/14/2022,Lisle,On Time,Male,Floyd,China,Kiley Skilton
-4269,16,AS,MM,Putao Airport,PBU,Asia,Myanmar,12/18/2022,Peri,Cancelled,Female,Battram,Peru,Coralyn McMickan
-6821,83,NAM,US,Kenmore Air Harbor Seaplane Base,LKE,North America,United States,12-08-2022,Tessy,On Time,Female,Athelstan,Sweden,Denny Mudd
-8515,70,EU,BG,Gorna Oryahovitsa Airport,GOZ,Europe,Bulgaria,9/25/2022,Aeriela,On Time,Female,Clarke,Portugal,Devonne Jon
-1328,67,EU,FR,Grenoble-Isère Airport,GNB,Europe,France,1/18/2022,Darby,On Time,Male,Felgate,Russia,Rhonda Amber
-5744,14,AS,MM,Bagan Airport,NYU,Asia,Myanmar,10-03-2022,Julietta,Delayed,Female,Delahunt,Democratic Republic of the Congo,Aimil Shakshaft
-5079,30,AS,ID,Fakfak Airport,FKQ,Asia,Indonesia,04-09-2022,Inge,Cancelled,Female,Hewins,Morocco,Danit Hazley
-8190,71,NAM,CA,Ottawa / Gatineau Airport,YND,North America,Canada,9/16/2022,Dominica,Delayed,Female,Pyle,China,Kacie Commucci
-2106,87,NAM,CA,Thompson Airport,YTH,North America,Canada,11-03-2022,Jerrine,Cancelled,Female,Peeters,Philippines,Chandra Dyhouse
-3716,37,NAM,US,Wichita Eisenhower National Airport,ICT,North America,United States,11-08-2022,Kristan,Delayed,Female,Metzing,Peru,Ellene Gibby
-7791,84,AS,IR,Ilam Airport,IIL,Asia,"""Iran, Islamic Republic of""",10/21/2022,Rory,Cancelled,Female,Wank,Japan,Yoshiko Agastina
-3516,33,AS,IN,Biju Patnaik Airport,BBI,Asia,India,7/22/2022,Denys,Delayed,Male,Endricci,Nigeria,Lolly Sine
-7969,19,AS,VN,Dien Bien Phu Airport,DIN,Asia,Viet Nam,8/19/2022,Carley,Delayed,Female,Gowers,Poland,Gabriello Slinn
-7693,86,OC,AU,Margaret River (Station) Airport,MGV,Oceania,Australia,12/15/2022,Murry,On Time,Male,Entreis,Russia,Delora Percival
-4353,49,AF,BF,Arly Airport,ARL,Africa,Burkina Faso,10/29/2022,Star,Cancelled,Female,Casford,Greece,Bailey Priver
-4937,40,AS,IL,Bar Yehuda Airfield,MTZ,Asia,Israel,11/14/2022,Heywood,On Time,Male,Bisp,Indonesia,Tomi Larkins
-5976,72,OC,PG,Green River Airport,GVI,Oceania,Papua New Guinea,07-11-2022,Wilma,On Time,Female,Burdytt,Poland,Clarey Masding
-8116,80,NAM,US,Panguitch Municipal Airport,PNU,North America,United States,10/19/2022,Mariann,Delayed,Female,Wilshin,China,Vanya Dami
-2084,7,NAM,US,Southern Seaplane Airport,BCS,North America,United States,3/26/2022,Ferrel,Cancelled,Male,Elphey,Slovenia,Queenie Arends
-6223,29,OC,AU,Nyngan Airport,NYN,Oceania,Australia,1/14/2022,Valle,On Time,Male,Christoforou,Benin,Constantia Rubery
-9088,33,NAM,US,Memorial Field,HOT,North America,United States,11/28/2022,Mariele,Cancelled,Female,Lucius,Ukraine,Nickie Rudyard
-9357,39,AS,TW,Matsu Nangan Airport,LZN,Asia,"""Taiwan, Province of China""",10/27/2022,Kelci,On Time,Female,Colliver,China,Dulci Bastow
-8004,62,NAM,US,Albert Lea Municipal Airport,AEL,North America,United States,07-05-2022,Leta,On Time,Female,Tartt,Afghanistan,Karlene Kempster
-6151,62,NAM,CA,Kugluktuk Airport,YCO,North America,Canada,12/26/2022,Elwood,On Time,Male,Catt,Nicaragua,Marla Parsonage
-1378,69,SAM,BR,Araraquara Airport,AQA,South America,Brazil,03-08-2022,Nathanil,On Time,Male,Monan,Brazil,Gabe Sartin
-3680,12,NAM,CA,Tahsis Seaplane Base,ZTS,North America,Canada,1/31/2022,Erwin,Cancelled,Male,Baise,Haiti,Weber Swindon
-4623,32,NAM,US,Abraham Lincoln Capital Airport,SPI,North America,United States,4/25/2022,George,Delayed,Female,Wildber,Brazil,Sayer Speakman
-8515,85,AS,NP,Meghauli Airport,MEY,Asia,Nepal,2/26/2022,Rici,Delayed,Female,Rein,Russia,Eleni Avent
-4187,2,NAM,US,Stewart International Airport,SWF,North America,United States,07-06-2022,Tann,Cancelled,Male,McCroary,Poland,Neysa Hendin
-3264,69,EU,RU,Grabtsevo Airport,KLF,Europe,Russian Federation,10/26/2022,Adair,Delayed,Male,Spurman,China,Milka Towll
-4900,72,AS,CN,Xinzhou Wutaishan Airport,WUT,Asia,China,4/27/2022,Darnall,Cancelled,Male,Comfort,Russia,Maryjane Wolseley
-6035,8,NAM,US,Dalhart Municipal Airport,DHT,North America,United States,04-08-2022,Sybila,On Time,Female,Troker,Indonesia,Nelle Aldridge
-6532,65,OC,PG,Mal Airport,MMV,Oceania,Papua New Guinea,10/26/2022,Kurt,Delayed,Male,Marling,Indonesia,Noelyn Abbey
-8210,13,NAM,CA,Vermilion Airport,YVG,North America,Canada,04-06-2022,Burlie,On Time,Male,Schustl,Thailand,Alameda Carlyle
-8896,73,EU,NO,Vadsø Airport,VDS,Europe,Norway,11/25/2022,Diannne,Cancelled,Female,Samter,Cameroon,Simmonds Gallihaulk
-2190,13,NAM,US,Trona Airport,TRH,North America,United States,5/28/2022,Aprilette,Cancelled,Female,Veysey,Thailand,Neale MacMearty
-1003,38,EU,RO,Sibiu International Airport,SBZ,Europe,Romania,12/24/2022,Jacenta,Cancelled,Female,Linner,Argentina,Joseito Zorzi
-2710,18,NAM,US,Kenai Municipal Airport,ENA,North America,United States,07-03-2022,Cobbie,Delayed,Male,Imorts,Croatia,Eugenius Grishakov
-6955,24,SAM,BR,Arapiraca Airport,APQ,South America,Brazil,4/26/2022,Aldon,Delayed,Male,Ridsdell,Ghana,Lynette Ortelt
-3079,29,AS,IN,Gorakhpur Airport,GOP,Asia,India,1/30/2022,Ericha,Cancelled,Female,Dressel,Sweden,Rowena Krollman
-3718,17,AS,CN,Quzhou Airport,JUZ,Asia,China,9/22/2022,Gnni,On Time,Female,Chaperling,Brazil,Justinn Hugh
-1864,6,OC,PG,Wantoat Airport,WTT,Oceania,Papua New Guinea,11/30/2022,Dorthea,On Time,Female,Wealleans,China,Adi Sinclar
-8772,52,OC,PF,Mururoa Atoll Airport,UOA,Oceania,French Polynesia,02-06-2022,Frank,On Time,Male,Greenhough,Philippines,Ronald Antonucci
-9891,33,EU,UA,Mariupol International Airport,MPW,Europe,Ukraine,08-09-2022,Burty,On Time,Male,Blurton,China,Leonora Holah
-9845,56,AS,ID,Rar Gwamar Airport,DOB,Asia,Indonesia,07-08-2022,Rosalyn,Delayed,Female,Vondrys,China,Fowler Desquesnes
-3185,56,AS,SA,Jubail Airport,QJB,Asia,Saudi Arabia,2/13/2022,Herbert,Delayed,Male,Billingsly,Mongolia,Lincoln Blaske
+2475,45,EU,HR,Osijek Airport,OSI,Europe,Croatia,6/24/2022,Dorothea,On Time,Female,Rogister,Sweden,Trevor Braunston
+5137,62,NAM,US,Coldfoot Airport,CXF,North America,United States,6/28/2022,Edithe,On Time,Female,Leggis,Japan,Fransisco Hazeldine
+3805,48,NAM,US,Lebanon Municipal Airport,LEB,North America,United States,5/23/2022,Tansy,Delayed,Female,Symons,Indonesia,Olly Pawelek
+6741,54,AS,SA,Turaif Domestic Airport,TUI,Asia,Saudi Arabia,02-08-2022,Rutger,Cancelled,Male,Georgeon,Myanmar,Steward Sainter
+9899,46,NAM,US,Hattiesburg Laurel Regional Airport,PIB,North America,United States,7/27/2022,Marjory,Cancelled,Female,Franz,Nigeria,Padget Diben
+9143,54,SAM,BR,Monte Carmelo Airport,0,South America,Brazil,9/14/2022,Krishnah,On Time,Male,Dabels,Russia,Freddie Wallach
+5681,20,NAM,US,Nikolai Airport,NIB,North America,United States,08-11-2022,Anestassia,On Time,Female,Vauls,Albania,Lucio Notley
+9831,55,SAM,BR,Coronel Horácio de Mattos Airport,LEC,South America,Brazil,06-10-2022,Lora,On Time,Female,Durbann,Brazil,Inglis Dolley
+2811,45,AF,MG,Port Bergé Airport,WPB,Africa,Madagascar,8/24/2022,Bobbye,On Time,Female,Patmore,China,Stella Pittham
+9256,85,NAM,DO,Casa De Campo International Airport,LRM,North America,Dominican Republic,04-04-2022,Violetta,Delayed,Female,Francois,Indonesia,Christel Blues
+5099,3,NAM,US,Spirit of St Louis Airport,SUS,North America,United States,7/17/2022,Cordie,On Time,Female,Rosenberger,Brazil,Enrica Ferrarini
+8241,56,NAM,CA,Victoria Harbour Seaplane Base,YWH,North America,Canada,01-12-2022,Gene,Delayed,Male,Cottham,Philippines,Sib Feragh
+7526,37,SAM,CO,Orocue Airport,ORC,South America,Colombia,08-12-2022,Arel,Cancelled,Male,Tyson,Spain,Danie Maggiore
+4188,36,SAM,BR,Maestro Wilson Fonseca Airport,STM,South America,Brazil,04-07-2022,Perceval,Cancelled,Male,Dallosso,Vietnam,Sharyl Eastmead
+1458,19,OC,NC,Nesson Airport,HLU,Oceania,New Caledonia,3/25/2022,Murvyn,Cancelled,Male,Duff,Germany,Dorine Timmermann
+1813,33,NAM,KY,Gerrard Smith International Airport,CYB,North America,Cayman Islands,06-11-2022,Gauthier,Cancelled,Male,Elsip,Uruguay,Leslie Delmage
+7578,6,AS,VN,Cà Mau Airport,CAH,Asia,Viet Nam,1/13/2022,Leandra,Cancelled,Female,Demer,Colombia,Lizbeth Snaden
+7692,45,NAM,CA,Fort Mcpherson Airport,ZFM,North America,Canada,12-04-2022,Maia,Delayed,Female,Kidwell,Philippines,Dorise Ronchka
+5599,19,NAM,CA,St Augustin Airport,YIF,North America,Canada,11-05-2022,Dorisa,Cancelled,Female,Skill,Ukraine,Ilyse Bartleman
+1501,70,SAM,CO,El Dorado International Airport,BOG,South America,Colombia,03-12-2022,Edlin,On Time,Male,Theobald,Poland,Lisha Retallick
+9729,21,OC,PG,Pureni Airport,PUI,Oceania,Papua New Guinea,8/15/2022,Kelsy,Delayed,Female,Danhel,Indonesia,Sacha Munford
+1038,23,EU,RU,Nalchik Airport,NAL,Europe,Russian Federation,11/26/2022,Rodolph,Delayed,Male,Grewcock,Kazakhstan,Constantine Leworthy
+6921,87,NAM,US,Elkhart Municipal Airport,EKI,North America,United States,3/20/2022,Sayre,Cancelled,Male,Stroyan,Indonesia,Austine Crewe
+9090,3,AS,ID,Yuruf Airport,RUF,Asia,Indonesia,05-02-2022,Fidelio,Delayed,Male,Guerry,China,Caye Donat
+6967,79,OC,PG,Talasea Airport,TLW,Oceania,Papua New Guinea,07-07-2022,Cordy,On Time,Male,Plenderleith,Sweden,Fifine Dodshon
+4331,57,NAM,US,Elkhart Municipal Airport,EKI,North America,United States,11/29/2022,Rufus,Cancelled,Male,Bernardini,Peru,Brittan Barends
+6731,2,NAM,NI,Augusto C. Sandino (Managua) International Airport,MGA,North America,Nicaragua,02-02-2022,Ransell,Delayed,Male,Evins,Russia,Berna Tenwick
+7737,89,AF,CM,Kribi Airport,KBI,Africa,Cameroon,1/13/2022,Biddy,On Time,Female,Rief,Vietnam,Darlleen Twohig
+3248,37,AS,ID,Sultan Khairun Babullah Airport,TTE,Asia,Indonesia,05-11-2022,Carlota,Cancelled,Female,Llewhellin,China,Reube Branwhite
+4137,89,AF,MR,Tamchakett Airport,THT,Africa,Mauritania,10/25/2022,Findley,Delayed,Male,Godleman,Indonesia,Mitchell Parsisson
+3189,54,NAM,US,Central Maine Airport of Norridgewock,OWK,North America,United States,4/13/2022,Collin,Delayed,Male,Ciepluch,China,Torin Le Leu
+2915,9,NAM,US,Phoenix-Mesa-Gateway Airport,AZA,North America,United States,06-10-2022,Skelly,On Time,Male,Gopsell,Czech Republic,Deborah Mathissen
+8203,89,AF,ZA,Arathusa Safari Lodge Airport,ASS,Africa,South Africa,10-07-2022,Carolann,Cancelled,Female,Yves,Poland,Dulci Milne
+5611,62,AS,RU,Mirny Airport,MJZ,Asia,Russian Federation,2/21/2022,Anders,On Time,Male,Treadger,Madagascar,Giacomo Tooth
+7000,79,AS,IR,Bandar Lengeh Airport,BDH,Asia,"""Iran, Islamic Republic of""",12-05-2022,Bernardo,Cancelled,Male,Bigland,Philippines,Corissa Lamps
+1277,76,NAM,US,McGhee Tyson Airport,TYS,North America,United States,02-07-2022,Margaux,Delayed,Female,Lattin,Guatemala,Sydelle Danher
+8821,27,EU,IS,Fáskrúðsfjörður Airport,FAS,Europe,Iceland,1/13/2022,Artemus,On Time,Male,Brewitt,China,Jayme Witard
+2661,18,OC,PG,Hatzfeldhaven Airport,HAZ,Oceania,Papua New Guinea,5/25/2022,Basil,Cancelled,Male,Canon,Portugal,Siobhan Philippon
+2597,87,OC,AU,Leinster Airport,LER,Oceania,Australia,8/21/2022,Flin,Delayed,Male,Bordone,Philippines,Hunt Sommerlie
+3851,25,AS,ID,Muhammad Salahuddin Airport,BMU,Asia,Indonesia,8/28/2022,Marlin,Cancelled,Male,Yegorev,Egypt,Saidee Sellers
+5648,54,NAM,CR,Islita Airport,PBP,North America,Costa Rica,7/15/2022,Dermot,Cancelled,Male,Stainburn,Armenia,Buddy Guslon
+1856,76,EU,DE,"""Magdeburg """"City"""" Airport""",ZMG,Europe,Germany,12-06-2022,Clemmie,Cancelled,Male,Harbertson,Ukraine,Tadio Hayne
+2181,77,AF,BF,Ouahigouya Airport,OUG,Africa,Burkina Faso,4/29/2022,Eugenius,On Time,Male,Headon,Ukraine,Ibrahim Cotton
+3339,66,OC,PG,Wanuma Airport,WNU,Oceania,Papua New Guinea,09-01-2022,Magda,Cancelled,Female,Nealand,United States,Brnaba Lilburne
+6305,74,AF,DZ,In Guezzam Airport,INF,Africa,Algeria,1/20/2022,Lissa,Delayed,Female,Thynn,Luxembourg,Sean Searchwell
+6042,76,AS,JP,Akita Airport,AXT,Asia,Japan,06-03-2022,Ag,Delayed,Female,Gumby,China,Annamarie Shrimpton
+5105,78,NAM,US,Omar N Bradley Airport,MBY,North America,United States,5/19/2022,Cy,Cancelled,Male,Servante,China,Ludovika Purdon
+8160,74,NAM,CA,Campbell River Airport,YBL,North America,Canada,7/22/2022,Rudolph,Delayed,Male,Housbie,Iran,Kirby Varvell
+5200,44,NAM,US,Zahn's Airport,AYZ,North America,United States,11/23/2022,Ashlie,Delayed,Female,Rotham,Ireland,Vicky Silmon
+1662,85,SAM,AR,Valcheta Airport,VCF,South America,Argentina,10/23/2022,Con,On Time,Male,Kaine,Yemen,Ginger Dominichelli
+5127,23,EU,SE,Gällivare Airport,GEV,Europe,Sweden,5/21/2022,Elana,Delayed,Female,Heisham,Greece,Nathanial Gretton
+2853,51,AS,LK,Batticaloa Airport,BTC,Asia,Sri Lanka,02-12-2022,Constancy,Cancelled,Female,Darke,China,Bron Alben
+2197,80,NAM,CA,Brandon Municipal Airport,YBR,North America,Canada,4/14/2022,Allx,Cancelled,Female,Fretter,Brazil,Saxon Stoker
+3197,30,NAM,US,Columbus Lowndes County Airport,UBS,North America,United States,1/13/2022,Seline,Cancelled,Female,Garvill,Philippines,Dael Schubuser
+6376,12,NAM,CA,Schefferville Airport,YKL,North America,Canada,04-05-2022,Tobe,Cancelled,Female,Torrejon,Brazil,Gaelan Fforde
+2260,90,NAM,GT,El Petén Airport,TKM,North America,Guatemala,05-05-2022,Sydney,On Time,Male,MacGhee,Guatemala,Ambur Boden
+1482,6,AF,CG,Gamboma Airport,GMM,Africa,Congo,04-09-2022,Jessamyn,Delayed,Female,Buddles,Peru,Beau Stevens
+3808,10,OC,PG,Omora Airport,OSE,Oceania,Papua New Guinea,08-01-2022,Sergio,On Time,Male,Edmonson,Sweden,Woodie Stearley
+8007,87,NAM,US,White Mountain Airport,WMO,North America,United States,7/20/2022,Lilli,Delayed,Female,Sarath,Sweden,Ollie Ventom
+4987,58,NAM,CA,Gorge Harbour Seaplane Base,YGE,North America,Canada,08-05-2022,Celina,Cancelled,Female,Boothebie,Latvia,Balduin Ingman
+8966,24,SAM,BR,João Durval Carneiro Airport,FEC,South America,Brazil,1/25/2022,Bryna,On Time,Female,Monson,Poland,Elissa Ledwich
+8511,29,OC,PG,Bewani Airport,BWP,Oceania,Papua New Guinea,11/29/2022,Benson,On Time,Male,Hook,Indonesia,Kristi Curteis
+3776,80,NAM,CA,Tahsis Seaplane Base,ZTS,North America,Canada,11/16/2022,Noelyn,On Time,Female,Penquet,Brazil,Harlene Illingsworth
+8639,73,NAM,BS,Colonel Hill Airport,CRI,North America,Bahamas,12-11-2022,Bibby,Delayed,Female,Evershed,Indonesia,Georgena Scanderet
+4757,86,NAM,US,Valle Airport,VLE,North America,United States,5/19/2022,West,Cancelled,Male,Kernermann,Norway,Rosamund Gauchier
+1748,53,NAM,US,Wiley Post Will Rogers Memorial Airport,BRW,North America,United States,12-05-2022,Halie,Delayed,Female,Jewar,France,Katerine Bartolomivis
+4214,68,NAM,US,Okmulgee Regional Airport,OKM,North America,United States,7/15/2022,Terri,On Time,Female,Palle,Poland,Maisey Kubis
+3872,42,AF,BW,Jwaneng Airport,JWA,Africa,Botswana,3/28/2022,Dunstan,On Time,Male,Fyrth,China,Sallie Jessop
+9441,22,AF,GQ,Malabo Airport,SSG,Africa,Equatorial Guinea,9/23/2022,Lyndsie,Delayed,Female,Dyball,Czech Republic,Arlina Legging
+6289,62,SAM,BR,Monte Dourado Airport,MEU,South America,Brazil,12/28/2022,Eran,On Time,Female,Summerill,Afghanistan,Fabien Lipprose
+4013,82,AF,DZ,Tsletsi Airport,QDJ,Africa,Algeria,11-01-2022,Happy,Cancelled,Female,Jaskowicz,Mexico,Meridith Dibbe
+4699,37,NAM,US,Dallas Love Field,DAL,North America,United States,5/31/2022,Loree,On Time,Female,Fishpond,Ukraine,Gaelan Kenyam
+4547,8,AF,MR,Timbedra Airport,TMD,Africa,Mauritania,2/19/2022,Joellyn,On Time,Female,Stutter,Croatia,Janaya Retchford
+9152,73,EU,GB,Duxford Aerodrome,QFO,Europe,United Kingdom,10/30/2022,Rand,Cancelled,Male,Bram,Ivory Coast,Stanislas Tiffin
+6481,52,OC,AU,Helenvale Airport,HLV,Oceania,Australia,05-02-2022,Newton,Delayed,Male,Berni,Argentina,Rouvin Siflet
+4386,79,AS,CN,Jiayuguan Airport,JGN,Asia,China,5/29/2022,Mead,On Time,Male,Syer,Venezuela,Monique Edworthye
+1278,6,AS,CN,Guanghan Airport,GHN,Asia,China,2/24/2022,Lincoln,Cancelled,Male,Casburn,Vietnam,Coralie Chatterton
+4473,54,NAM,CA,Geraldton Greenstone Regional Airport,YGQ,North America,Canada,7/28/2022,Isidor,Cancelled,Male,Rundall,Peru,Claresta Charter
+8585,69,OC,NZ,Kaitaia Airport,KAT,Oceania,New Zealand,4/24/2022,Neal,Delayed,Male,Kulver,Thailand,Roldan Doyley
+7642,54,OC,AU,Minlaton Airport,XML,Oceania,Australia,12/15/2022,Ransom,On Time,Male,Chippindale,Peru,Lenci Aitkin
+8059,73,NAM,US,Denver International Airport,DEN,North America,United States,05-07-2022,Tan,On Time,Male,Connold,Sweden,Bevvy Cleall
+4448,21,NAM,US,Gillespie Field,SEE,North America,United States,2/25/2022,Bay,On Time,Male,Pencost,China,Ebonee Tree
+5725,74,AS,SY,Al Thaurah Airport,SOR,Asia,Syrian Arab Republic,11/15/2022,Rozelle,Delayed,Female,Neubigin,China,Missy Yepiskopov
+2112,76,NAM,US,Lawson Army Air Field (Fort Benning),LSF,North America,United States,7/21/2022,Francoise,Delayed,Female,Mustill,Netherlands,Carlye Egan
+1170,14,NAM,US,Naval Outlying Field Imperial Beach (Ream Field),NRS,North America,United States,9/26/2022,Fons,On Time,Male,Schrieves,Albania,Reinald Toffler
+9470,9,OC,PG,Gora Airstrip,GOC,Oceania,Papua New Guinea,6/25/2022,Gardiner,On Time,Male,Ferbrache,Sweden,Pamela Franiak
+7303,12,NAM,US,Hutchinson County Airport,BGD,North America,United States,07-03-2022,Arlee,On Time,Female,Levine,China,Kale Cabbell
+4913,53,SAM,BR,Antônio Guerreiro Airport,GMS,South America,Brazil,9/16/2022,Jameson,On Time,Male,Sayce,Brazil,Maddy Siuda
+5265,30,NAM,CA,Wabush Airport,YWK,North America,Canada,09-06-2022,Kaitlin,Cancelled,Female,Gaven,Sao Tome and Principe,Leshia Risby
+1805,24,NAM,US,Crested Butte Airpark,CSE,North America,United States,2/19/2022,Paige,Delayed,Male,Hayhow,Sweden,Clyde Winn
+6059,66,OC,AU,Yam Island Airport,XMY,Oceania,Australia,12/27/2022,Jewel,On Time,Female,Betteney,China,Bonnee Summerson
+8162,7,EU,IT,Genoa Cristoforo Colombo Airport,GOA,Europe,Italy,12/18/2022,Ebony,On Time,Female,Knappitt,Russia,Laurence Queenborough
+3358,45,NAM,CA,Gaspé (Michel-Pouliot) Airport,YGP,North America,Canada,5/15/2022,Dredi,Cancelled,Female,Curd,Russia,Fitzgerald Alberti
+3495,28,SAM,VE,Zaraza Airport,ZRZ,South America,"""Venezuela, Bolivarian Republic of""",9/23/2022,Janella,On Time,Female,Hardaker,Colombia,Shaylynn Alcott
+9665,17,OC,AU,Kalbarri Airport,KAX,Oceania,Australia,5/29/2022,Lorilyn,On Time,Female,Annion,China,Annaliese Cramond
+1113,65,OC,PG,Awaba Airport,AWB,Oceania,Papua New Guinea,10/28/2022,Arlena,Delayed,Female,Ridwood,Ireland,Alyosha Damp
+6586,32,NAM,US,Farmington Regional Airport,FAM,North America,United States,03-07-2022,Amberly,Delayed,Female,Handling,China,Lothaire Eades
+7806,39,OC,PG,Buka Airport,BUA,Oceania,Papua New Guinea,10/29/2022,Piggy,Delayed,Male,Hugle,Philippines,Far Cicci
+2296,19,AS,NP,Bhojpur Airport,BHP,Asia,Nepal,12-10-2022,Cirilo,Delayed,Male,Camoletto,China,Louisa Worvell
+7072,65,AS,IR,Lar Airport,LRR,Asia,"""Iran, Islamic Republic of""",7/31/2022,Gabriella,Delayed,Female,Patry,China,Clyve Dickerson
+3853,70,OC,AU,St George Airport,SGO,Oceania,Australia,07-12-2022,Hobie,Delayed,Male,Skace,China,Jenn Backshaw
+5569,35,EU,DE,RAF Wildenrath,WID,Europe,Germany,2/17/2022,Gisella,Cancelled,Female,Watters,Philippines,Sherwin Izen
+3783,4,OC,PG,Tapini Airport,TPI,Oceania,Papua New Guinea,7/30/2022,Care,Cancelled,Male,Kearton,Kenya,Britt Viney
+9202,11,SAM,BR,Soledade Airport,0,South America,Brazil,10-03-2022,Modesty,Cancelled,Female,Zink,Ukraine,Charissa Figures
+4669,49,NAM,US,Owatonna Degner Regional Airport,OWA,North America,United States,01-04-2022,Adlai,On Time,Male,Tilmouth,Serbia,Caresse Sumpner
+1120,68,AF,MZ,Paradise Island Airport,NTC,Africa,Mozambique,10/29/2022,Randie,On Time,Male,Jankin,Mexico,Ibrahim Andraud
+2127,1,SAM,EC,Nueva Loja Airport,LGQ,South America,Ecuador,12/17/2022,Gearalt,Delayed,Male,Bynold,China,Mic Rosenau
+9669,23,NAM,US,Southwest Florida International Airport,RSW,North America,United States,3/24/2022,Franz,Cancelled,Male,Roset,Greece,Stanford Garnam
+7360,50,SAM,BO,Roboré Airport,RBO,South America,"""Bolivia, Plurinational State of""",5/13/2022,Andy,Cancelled,Male,Kettleson,China,Ivett Connikie
+5762,66,AS,IN,Tezu Airport,TEI,Asia,India,5/23/2022,Shermy,Delayed,Male,Gatchell,Colombia,Albrecht Lorne
+5673,65,OC,PG,Long Island Airport,LSJ,Oceania,Papua New Guinea,10/23/2022,Des,Cancelled,Male,Sutehall,Indonesia,Bartholomeus Gherardini
+6914,29,SAM,CO,Hato Corozal Airport,HTZ,South America,Colombia,08-06-2022,Jayme,Delayed,Female,Dairton,Indonesia,Kaye Clews
+2292,41,OC,PG,Doini Airport,DOI,Oceania,Papua New Guinea,07-06-2022,Genevra,On Time,Female,Shipperbottom,Ethiopia,Tandie Willbraham
+9887,16,NAM,CA,Black Tickle Airport,YBI,North America,Canada,02-12-2022,Brunhilda,Delayed,Female,Davley,Indonesia,Constantino Flanigan
+7258,75,AS,ID,Sangir Airport,SAE,Asia,Indonesia,10-01-2022,Corby,On Time,Male,Van Der Straaten,Kazakhstan,Maureen Slimming
+2973,39,NAM,MX,Nuevo Casas Grandes Airport,NCG,North America,Mexico,5/27/2022,Porty,Cancelled,Male,Jori,Tunisia,Rasia Fidelus
+8705,51,NAM,MX,General Lucio Blanco International Airport,REX,North America,Mexico,10/19/2022,Flora,On Time,Female,Delgardillo,Philippines,Keeley Kiltie
+6845,64,OC,VU,Futuna Airport,FTA,Oceania,Vanuatu,09-04-2022,Felizio,Cancelled,Male,Kevern,Russia,Munroe Humble
+2062,35,AF,ZM,Kasaba Bay Airport,ZKB,Africa,Zambia,4/14/2022,Clevie,Delayed,Male,Clubbe,China,Fenelia Print
+9646,61,NAM,US,Cincinnati Northern Kentucky International Airport,CVG,North America,United States,6/16/2022,Zelig,On Time,Male,Brinded,Brazil,Cosmo Rossbrook
+1190,14,OC,WS,Faleolo International Airport,APW,Oceania,Samoa,7/22/2022,Magdalen,Delayed,Female,Claiden,China,Micky Luno
+8589,52,NAM,GT,Mundo Maya International Airport,FRS,North America,Guatemala,5/25/2022,Cairistiona,Cancelled,Female,Tummond,Tanzania,Burnaby De Mitris
+7921,85,NAM,US,Springfield Branson National Airport,SGF,North America,United States,08-09-2022,Travers,Cancelled,Male,Selwyne,Colombia,Annetta Vasyunkin
+3063,36,NAM,CA,Merritt Airport,YMB,North America,Canada,11-03-2022,Henryetta,Delayed,Female,Noice,Chile,Sybilla Hargey
+6066,46,NAM,CA,Amos/Magny Airport,YEY,North America,Canada,4/18/2022,Fairleigh,On Time,Male,Hagger,China,Andre Sissel
+8367,90,OC,AU,Mullewa Airport,MXU,Oceania,Australia,09-10-2022,Vernen,Delayed,Male,Ivakhnov,China,Lidia Kleinert
+3180,35,NAM,US,University of Oklahoma Westheimer Airport,OUN,North America,United States,1/26/2022,Chris,On Time,Female,Body,Sweden,Loretta Bumphries
+9302,62,AS,IR,Shahid Sadooghi Airport,AZD,Asia,"""Iran, Islamic Republic of""",8/16/2022,Bethany,Cancelled,Female,Corona,Tanzania,Elmer Baldock
+2554,35,EU,IT,Venice Marco Polo Airport,VCE,Europe,Italy,8/20/2022,Aleda,On Time,Female,Pigram,Palestinian Territory,Daryn Bardsley
+2419,73,AF,ZA,Tanda Tula Airport,TDT,Africa,South Africa,6/17/2022,Winne,Cancelled,Female,Cowland,France,Ernaline Klain
+5018,15,AS,MN,Khovd Airport,HVD,Asia,Mongolia,10/13/2022,Marylinda,Cancelled,Female,Gussie,Poland,Dyanna Edmondson
+7316,55,SAM,BR,Canarana Airport,CQA,South America,Brazil,9/26/2022,Cymbre,Cancelled,Female,Steeden,Russia,Margit Filon
+1599,79,NAM,US,Bemidji Regional Airport,BJI,North America,United States,6/19/2022,Virgil,Cancelled,Male,Markussen,Philippines,Bird Boarder
+2371,7,AS,CN,Handan Airport,HDG,Asia,China,03-08-2022,Gwenore,Delayed,Female,Smaridge,Russia,Doria Coils
+4973,58,OC,AU,Diamantina Lakes Airport,DYM,Oceania,Australia,11/23/2022,Tamas,Delayed,Male,Vigneron,Mali,Clemente Mateev
+3710,47,AS,PK,Loralai Airport,LRG,Asia,Pakistan,3/19/2022,Kalie,Delayed,Female,Scoble,Sweden,Madelena Lennarde
+1930,78,AS,RU,Aldan Airport,ADH,Asia,Russian Federation,08-07-2022,Mattias,Cancelled,Male,Darrell,Honduras,Masha Banville
+8741,23,OC,AU,South Galway Airport,ZGL,Oceania,Australia,11-10-2022,Natalya,Cancelled,Female,Offner,Czech Republic,Christalle Lifton
+2578,80,AS,JP,Tarama Airport,TRA,Asia,Japan,4/13/2022,Sherwood,On Time,Male,Woolaston,Portugal,Ardelia Milch
+3461,36,NAM,DM,Canefield Airport,DCF,North America,Dominica,5/19/2022,Mischa,Delayed,Male,Caulwell,Mexico,Cari Moens
+7913,51,AF,KE,Mulika Lodge Airport,JJM,Africa,Kenya,7/27/2022,Anabella,Cancelled,Female,Tutchings,China,Joceline Frangleton
+2696,6,AF,CD,Kasenga Airport,KEC,Africa,"""Congo, The Democratic Republic of the""",10/16/2022,Ephrayim,On Time,Male,Bedford,China,Park Thody
+5839,54,NAM,US,Susanville Municipal Airport,SVE,North America,United States,3/21/2022,Haroun,On Time,Male,holmes,United States,Xerxes Arkcoll
+9979,54,AF,SD,En Nahud Airport,NUD,Africa,Sudan,5/18/2022,Nicole,Cancelled,Female,Gages,South Africa,Chet Carryer
+7054,7,NAM,US,Kalaupapa Airport,LUP,North America,United States,4/27/2022,Trudey,On Time,Female,Wagge,Poland,Manya Vaun
+4665,54,AS,CN,Nanjing Lukou Airport,NKG,Asia,China,10-11-2022,Francine,Cancelled,Female,Adolfsen,Indonesia,Leanora Romney
+3583,39,EU,HR,Rijeka Airport,RJK,Europe,Croatia,4/27/2022,Domenico,Cancelled,Male,Cadman,Ukraine,Tailor McGilroy
+3699,45,EU,BG,Sofia Airport,SOF,Europe,Bulgaria,1/20/2022,Arlyn,On Time,Female,Boole,Philippines,Cindie Critten
+2030,82,AF,DZ,Mecheria Airport,MZW,Africa,Algeria,05-12-2022,Pavlov,Cancelled,Male,Hadye,Brazil,Stefano Klampt
+6083,62,OC,AU,Port Lincoln Airport,PLO,Oceania,Australia,03-06-2022,Chrotoem,On Time,Male,Abels,Russia,Che Brett
+3422,21,NAM,US,Sawyer International Airport,MQT,North America,United States,5/17/2022,Lamond,Cancelled,Male,Ahmed,Croatia,Liv Heinig
+9788,83,NAM,US,Moody Air Force Base,VAD,North America,United States,8/17/2022,Yasmin,Delayed,Female,Findlow,Macedonia,Parnell Gosby
+5072,71,NAM,PA,Ruben Cantu Airport,SYP,North America,Panama,02-06-2022,Briant,Delayed,Male,De La Haye,Russia,Alina Flooks
+8344,85,AS,MY,Sepulot Airport,SPE,Asia,Malaysia,11-01-2022,Virginie,Cancelled,Female,Vaneev,France,Wadsworth Gillyett
+6627,90,NAM,US,Amchitka Army Airfield,AHT,North America,United States,06-07-2022,Pamella,Cancelled,Female,Eaden,Indonesia,Pearle Assiter
+6171,56,EU,RU,Krasnoselkup Airport,KKQ,Europe,Russian Federation,8/19/2022,Bryn,On Time,Female,Pratley,Maldives,Loria Brogini
+5106,16,OC,PG,Moro Airport,MXH,Oceania,Papua New Guinea,05-11-2022,Averell,Cancelled,Male,Shellsheere,Albania,Syman Milham
+6971,37,NAM,US,Lemhi County Airport,SMN,North America,United States,1/23/2022,Paulie,Delayed,Male,Dunnet,Serbia,Ned Marnes
+3956,54,NAM,US,Venice Municipal Airport,VNC,North America,United States,04-01-2022,Justinn,On Time,Female,Ishchenko,Pakistan,Sapphira MacKinnon
+2960,88,NAM,US,Waycross Ware County Airport,AYS,North America,United States,9/17/2022,Leroi,Cancelled,Male,Raeburn,Brazil,Binny Launder
+5519,75,NAM,CA,Shuswap Regional Airport,YSN,North America,Canada,10-05-2022,Heath,On Time,Male,Lackmann,China,Trude Querrard
+5302,45,EU,SK,Lučenec Airport,LUE,Europe,Slovakia,7/27/2022,Kirbee,On Time,Female,Wrenn,Armenia,Mary Hurch
+8081,37,OC,AU,Bairnsdale Airport,BSJ,Oceania,Australia,01-11-2022,Dasha,On Time,Female,Eppson,Indonesia,Merci Jeduch
+7658,77,OC,AU,Cudal Airport,CUG,Oceania,Australia,3/24/2022,Catriona,Delayed,Female,Beaument,Russia,Margie Beal
+4825,22,OC,AU,Etadunna Airport,ETD,Oceania,Australia,4/26/2022,Brien,On Time,Male,Gatherer,Poland,Liv Lydall
+7185,76,EU,GB,Newcastle Airport,NCL,Europe,United Kingdom,3/17/2022,Reinaldo,On Time,Male,Caines,Indonesia,Kakalina Usmar
+3742,26,EU,PT,João Paulo II Airport,PDL,Europe,Portugal,8/26/2022,Ajay,On Time,Female,Durward,Russia,Bertha Piborn
+1657,70,EU,RU,Ust-Maya Airport,UMS,Europe,Russian Federation,11-10-2022,Peterus,Delayed,Male,Lettson,Botswana,Eugine Mainwaring
+6326,75,NAM,US,Grumman Bethpage Airport,BPA,North America,United States,8/21/2022,Michele,On Time,Male,Olenchenko,Russia,Bessie Toller
+9949,12,EU,RU,Talakan Airport,TLK,Europe,Russian Federation,06-12-2022,Ikey,On Time,Male,Dowty,China,Beverlee Da Costa
+9912,62,AS,CN,Guilin Liangjiang International Airport,KWL,Asia,China,09-05-2022,Warner,Cancelled,Male,Driutti,China,Marita Holtom
+4545,66,OC,AU,Cue Airport,CUY,Oceania,Australia,10/16/2022,Jedidiah,Cancelled,Male,Malins,Indonesia,Perren Salkild
+6071,73,AS,MM,Pakhokku Airport,PKK,Asia,Myanmar,05-12-2022,Artair,Delayed,Male,Ondrich,Indonesia,Phoebe Quilkin
+9243,32,OC,PG,Moki Airport,MJJ,Oceania,Papua New Guinea,12/21/2022,Dun,Cancelled,Male,Craythorn,China,Dunn MacSkeagan
+5562,43,NAM,US,Lihue Airport,LIH,North America,United States,1/31/2022,Lennard,On Time,Male,Giorgi,Peru,Jordana Lantaff
+5937,88,EU,DE,Rostock-Laage Airport,RLG,Europe,Germany,8/23/2022,Gabrila,On Time,Female,Speedin,Portugal,Hope O'Doherty
+1538,37,OC,AU,Groote Eylandt Airport,GTE,Oceania,Australia,3/30/2022,Quentin,On Time,Male,Plaschke,Syria,Honey Gallaway
+9430,54,NAM,US,Centralia Municipal Airport,ENL,North America,United States,3/24/2022,Neil,Cancelled,Male,McCory,Portugal,Odella Gregoretti
+3576,38,OC,AU,Dalby Airport,DBY,Oceania,Australia,5/15/2022,Yuri,On Time,Male,Crossfield,Peru,Crista Timewell
+7125,22,AF,ZA,Oudtshoorn Airport,OUH,Africa,South Africa,7/18/2022,Dyna,Cancelled,Female,De'Vere - Hunt,China,Neila Giercke
+7472,12,AS,CN,Enshi Airport,ENH,Asia,China,3/29/2022,Alvin,Delayed,Male,Wenzel,Greece,Alfie MacMorland
+8952,77,OC,AU,Badu Island Airport,BDD,Oceania,Australia,11/24/2022,Joeann,Delayed,Female,Gotcliff,Kyrgyzstan,Brandais Crielly
+3544,13,SAM,PY,Fuerte Olimpo Airport,OLK,South America,Paraguay,7/21/2022,Sheridan,Delayed,Male,Casino,Ukraine,Carrissa McCooke
+6938,41,AS,IN,Pune Airport,PNQ,Asia,India,2/19/2022,Myrtie,On Time,Female,MacScherie,Laos,Claude Ashington
+3389,85,OC,PG,Kavieng Airport,KVG,Oceania,Papua New Guinea,6/22/2022,Willie,On Time,Male,Netherwood,Russia,Shirlee Weldrake
+1057,25,NAM,HN,Copán Ruinas Airport,RUY,North America,Honduras,7/14/2022,Lisle,On Time,Male,Floyd,China,Kiley Skilton
+8509,16,AS,MM,Putao Airport,PBU,Asia,Myanmar,12/18/2022,Peri,Cancelled,Female,Battram,Peru,Coralyn McMickan
+1934,83,NAM,US,Kenmore Air Harbor Seaplane Base,LKE,North America,United States,12-08-2022,Tessy,On Time,Female,Athelstan,Sweden,Denny Mudd
+6869,70,EU,BG,Gorna Oryahovitsa Airport,GOZ,Europe,Bulgaria,9/25/2022,Aeriela,On Time,Female,Clarke,Portugal,Devonne Jon
+9516,67,EU,FR,Grenoble-Isère Airport,GNB,Europe,France,1/18/2022,Darby,On Time,Male,Felgate,Russia,Rhonda Amber
+9576,14,AS,MM,Bagan Airport,NYU,Asia,Myanmar,10-03-2022,Julietta,Delayed,Female,Delahunt,Democratic Republic of the Congo,Aimil Shakshaft
+1291,30,AS,ID,Fakfak Airport,FKQ,Asia,Indonesia,04-09-2022,Inge,Cancelled,Female,Hewins,Morocco,Danit Hazley
+2537,71,NAM,CA,Ottawa / Gatineau Airport,YND,North America,Canada,9/16/2022,Dominica,Delayed,Female,Pyle,China,Kacie Commucci
+6529,87,NAM,CA,Thompson Airport,YTH,North America,Canada,11-03-2022,Jerrine,Cancelled,Female,Peeters,Philippines,Chandra Dyhouse
+5012,37,NAM,US,Wichita Eisenhower National Airport,ICT,North America,United States,11-08-2022,Kristan,Delayed,Female,Metzing,Peru,Ellene Gibby
+1065,84,AS,IR,Ilam Airport,IIL,Asia,"""Iran, Islamic Republic of""",10/21/2022,Rory,Cancelled,Female,Wank,Japan,Yoshiko Agastina
+8232,33,AS,IN,Biju Patnaik Airport,BBI,Asia,India,7/22/2022,Denys,Delayed,Male,Endricci,Nigeria,Lolly Sine
+7198,19,AS,VN,Dien Bien Phu Airport,DIN,Asia,Viet Nam,8/19/2022,Carley,Delayed,Female,Gowers,Poland,Gabriello Slinn
+9859,86,OC,AU,Margaret River (Station) Airport,MGV,Oceania,Australia,12/15/2022,Murry,On Time,Male,Entreis,Russia,Delora Percival
+6390,49,AF,BF,Arly Airport,ARL,Africa,Burkina Faso,10/29/2022,Star,Cancelled,Female,Casford,Greece,Bailey Priver
+3779,40,AS,IL,Bar Yehuda Airfield,MTZ,Asia,Israel,11/14/2022,Heywood,On Time,Male,Bisp,Indonesia,Tomi Larkins
+1052,72,OC,PG,Green River Airport,GVI,Oceania,Papua New Guinea,07-11-2022,Wilma,On Time,Female,Burdytt,Poland,Clarey Masding
+2894,80,NAM,US,Panguitch Municipal Airport,PNU,North America,United States,10/19/2022,Mariann,Delayed,Female,Wilshin,China,Vanya Dami
+5940,7,NAM,US,Southern Seaplane Airport,BCS,North America,United States,3/26/2022,Ferrel,Cancelled,Male,Elphey,Slovenia,Queenie Arends
+8768,29,OC,AU,Nyngan Airport,NYN,Oceania,Australia,1/14/2022,Valle,On Time,Male,Christoforou,Benin,Constantia Rubery
+8455,33,NAM,US,Memorial Field,HOT,North America,United States,11/28/2022,Mariele,Cancelled,Female,Lucius,Ukraine,Nickie Rudyard
+9218,39,AS,TW,Matsu Nangan Airport,LZN,Asia,"""Taiwan, Province of China""",10/27/2022,Kelci,On Time,Female,Colliver,China,Dulci Bastow
+5513,62,NAM,US,Albert Lea Municipal Airport,AEL,North America,United States,07-05-2022,Leta,On Time,Female,Tartt,Afghanistan,Karlene Kempster
+2961,62,NAM,CA,Kugluktuk Airport,YCO,North America,Canada,12/26/2022,Elwood,On Time,Male,Catt,Nicaragua,Marla Parsonage
+6156,69,SAM,BR,Araraquara Airport,AQA,South America,Brazil,03-08-2022,Nathanil,On Time,Male,Monan,Brazil,Gabe Sartin
+1648,12,NAM,CA,Tahsis Seaplane Base,ZTS,North America,Canada,1/31/2022,Erwin,Cancelled,Male,Baise,Haiti,Weber Swindon
+6601,32,NAM,US,Abraham Lincoln Capital Airport,SPI,North America,United States,4/25/2022,George,Delayed,Female,Wildber,Brazil,Sayer Speakman
+1378,85,AS,NP,Meghauli Airport,MEY,Asia,Nepal,2/26/2022,Rici,Delayed,Female,Rein,Russia,Eleni Avent
+1380,2,NAM,US,Stewart International Airport,SWF,North America,United States,07-06-2022,Tann,Cancelled,Male,McCroary,Poland,Neysa Hendin
+7499,69,EU,RU,Grabtsevo Airport,KLF,Europe,Russian Federation,10/26/2022,Adair,Delayed,Male,Spurman,China,Milka Towll
+7453,72,AS,CN,Xinzhou Wutaishan Airport,WUT,Asia,China,4/27/2022,Darnall,Cancelled,Male,Comfort,Russia,Maryjane Wolseley
+3643,8,NAM,US,Dalhart Municipal Airport,DHT,North America,United States,04-08-2022,Sybila,On Time,Female,Troker,Indonesia,Nelle Aldridge
+1115,65,OC,PG,Mal Airport,MMV,Oceania,Papua New Guinea,10/26/2022,Kurt,Delayed,Male,Marling,Indonesia,Noelyn Abbey
+2792,13,NAM,CA,Vermilion Airport,YVG,North America,Canada,04-06-2022,Burlie,On Time,Male,Schustl,Thailand,Alameda Carlyle
+1985,73,EU,NO,Vadsø Airport,VDS,Europe,Norway,11/25/2022,Diannne,Cancelled,Female,Samter,Cameroon,Simmonds Gallihaulk
+8977,13,NAM,US,Trona Airport,TRH,North America,United States,5/28/2022,Aprilette,Cancelled,Female,Veysey,Thailand,Neale MacMearty
+3105,38,EU,RO,Sibiu International Airport,SBZ,Europe,Romania,12/24/2022,Jacenta,Cancelled,Female,Linner,Argentina,Joseito Zorzi
+8580,18,NAM,US,Kenai Municipal Airport,ENA,North America,United States,07-03-2022,Cobbie,Delayed,Male,Imorts,Croatia,Eugenius Grishakov
+8983,24,SAM,BR,Arapiraca Airport,APQ,South America,Brazil,4/26/2022,Aldon,Delayed,Male,Ridsdell,Ghana,Lynette Ortelt
+3350,29,AS,IN,Gorakhpur Airport,GOP,Asia,India,1/30/2022,Ericha,Cancelled,Female,Dressel,Sweden,Rowena Krollman
+3413,17,AS,CN,Quzhou Airport,JUZ,Asia,China,9/22/2022,Gnni,On Time,Female,Chaperling,Brazil,Justinn Hugh
+2145,6,OC,PG,Wantoat Airport,WTT,Oceania,Papua New Guinea,11/30/2022,Dorthea,On Time,Female,Wealleans,China,Adi Sinclar
+9344,52,OC,PF,Mururoa Atoll Airport,UOA,Oceania,French Polynesia,02-06-2022,Frank,On Time,Male,Greenhough,Philippines,Ronald Antonucci
+1939,33,EU,UA,Mariupol International Airport,MPW,Europe,Ukraine,08-09-2022,Burty,On Time,Male,Blurton,China,Leonora Holah
+1116,56,AS,ID,Rar Gwamar Airport,DOB,Asia,Indonesia,07-08-2022,Rosalyn,Delayed,Female,Vondrys,China,Fowler Desquesnes
+6779,56,AS,SA,Jubail Airport,QJB,Asia,Saudi Arabia,2/13/2022,Herbert,Delayed,Male,Billingsly,Mongolia,Lincoln Blaske
