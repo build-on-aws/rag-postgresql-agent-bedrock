@@ -69,15 +69,15 @@ This application is built in four stages using infrastructure as code with [AWS 
 ## Part 0: Clone the repo
 
 ```
-git clone https://github.com/elizabethfuentes12/aws-customer-support-rag-agent-bedrock.git
+git clone https://github.com/build-on-aws/rag-postgresql-agent-bedrock
 ```
-## Part 1: [Building an Amazon Aurora PostgreSQL vector database as a Knowledge Base for Amazon Bedrock.](https://github.com/elizabethfuentes12/aws-customer-support-rag-agent-bedrock/tree/main/01-create-aurora-pgvector#readme)
+## Part 1: [Building an Amazon Aurora PostgreSQL vector database as a Knowledge Base for Amazon Bedrock.](https://github.com/build-on-aws/rag-postgresql-agent-bedrock/tree/main/01-create-aurora-pgvector#readme)
 
-## Part 2: [Building a Knowledge Base for Amazon Bedrock using Aurora PostgreSQL.](https://github.com/elizabethfuentes12/aws-customer-support-rag-agent-bedrock/tree/main/02-create-bedrock-knowledge-bases#readme)
+## Part 2: [Building a Knowledge Base for Amazon Bedrock using Aurora PostgreSQL.](https://github.com/build-on-aws/rag-postgresql-agent-bedrock/tree/main/02-create-bedrock-knowledge-bases#readme)
 
-## Part 3: [Building an Agent for Amazon Bedrock to Search Knowledge Base and Manage Amazon DynamoDB Data.](https://github.com/elizabethfuentes12/aws-customer-support-rag-agent-bedrock/tree/main/03-rag-agent-bedrock#readme)
+## Part 3: [Building an Agent for Amazon Bedrock to Search Knowledge Base and Manage Amazon DynamoDB Data.](https://github.com/build-on-aws/rag-postgresql-agent-bedrock/tree/main/03-rag-agent-bedrock#readme)
 
-## Part 4: [Enhanced User Interaction: Integrating a WhatsApp Assistant with Amazon Bedrock Agent.](https://github.com/elizabethfuentes12/aws-customer-support-rag-agent-bedrock/tree/main/04-whatsapp-app#readme)
+## Part 4: [Enhanced User Interaction: Integrating a WhatsApp Assistant with Amazon Bedrock Agent.](https://github.com/build-on-aws/rag-postgresql-agent-bedrock/tree/main/04-whatsapp-app#readme)
 
 ## Conclusion
 

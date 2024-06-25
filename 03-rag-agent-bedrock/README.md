@@ -7,7 +7,7 @@ Welcome to the third installment of our series on building a WhatsApp-powered RA
 In this part, with [AWS Cloud Development Kit (CDK)](https://aws.amazon.com/cdk) for Pytho we'll create an Agent for Amazon Bedrock  that serves as the interface between the user and our AI-powered travel support system. This agent will be capable of:
 
 1. Searching the Knowledge Base we created in Part 2 for relevant travel information.
-2. Interacting with an Amazon DynamoDB table to manage passenger ([with this data](https://github.com/elizabethfuentes12/aws-customer-support-rag-agent-bedrock/blob/main/03-rag-agent-bedrock/lambdas/code/dynamodb_put_item_from_csv/dataset.csv)) [from Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/airline-dataset). information and support tickets.
+2. Interacting with an Amazon DynamoDB table to manage passenger ([with this data](https://github.com/build-on-aws/rag-postgresql-agent-bedrock/blob/main/03-rag-agent-bedrock/lambdas/code/dynamodb_put_item_from_csv/dataset.csv)) [from Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/airline-dataset). information and support tickets.
 3. Performing various actions through predefined action groups, including retrieving passenger data, creating support tickets, and checking ticket status.
 
 ## Key Components
@@ -28,8 +28,8 @@ This agent will include the following key components:
 
 ## ✅ Key Configurations
 
-- Agent for Amazon Bedrock configuration can be found in the [create_agent_with_kb_ag.py](https://github.com/elizabethfuentes12/aws-customer-support-rag-agent-bedrock/blob/main/03-rag-agent-bedrock/agent_bedrock/create_agent_with_kb_ag.py) code in the CDK stack.
-- [AWS Identity and Access Management (IAM) role](https://docs.aws.amazon.com/bedrock/latest/userguide/knowledge-base-create.html#kb-create-security) for Agent permision is in the [create_role.py](https://github.com/elizabethfuentes12/aws-customer-support-rag-agent-bedrock/blob/main/03-rag-agent-bedrock/agent_role/create_role.py) code.
+- Agent for Amazon Bedrock configuration can be found in the [create_agent_with_kb_ag.py](https://github.com/build-on-aws/rag-postgresql-agent-bedrock/blob/main/03-rag-agent-bedrock/agent_bedrock/create_agent_with_kb_ag.py) code in the CDK stack.
+- [AWS Identity and Access Management (IAM) role](https://docs.aws.amazon.com/bedrock/latest/userguide/knowledge-base-create.html#kb-create-security) for Agent permision is in the [create_role.py](https://github.com/build-on-aws/rag-postgresql-agent-bedrock/blob/main/03-rag-agent-bedrock/agent_role/create_role.py) code.
 - Principal Stack. 
 
 ### LLM Use
@@ -79,7 +79,7 @@ Go to [Amazon Bedrock > Agents](https://us-east-1.console.aws.amazon.com/bedrock
 |-----------------|-----------------|
 | ![alt text](reschedule_flight.gif) | ![alt text](ticket.gif) |
 
-You can use passenger ID : *90896710* (or other from the synthetic data created in the DynamoDB Table )
+You can use passenger ID : *90896710* (or other from the [synthetic data](https://github.com/build-on-aws/rag-postgresql-agent-bedrock/blob/main/03-rag-agent-bedrock/lambdas/code/dynamodb_put_item_from_csv/dataset.csv) created in the DynamoDB Table )
 
 
 

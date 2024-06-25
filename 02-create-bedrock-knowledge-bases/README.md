@@ -1,6 +1,6 @@
 # Part 2: Create a Knowledge Base for Amazon Bedrock using Aurora PostgreSQL. 
 
-Welcome to the second part of our series on building a WhatsApp-powered RAG Travel Support Agent. In this installment, we'll focus on setting up a Knowledge Base for Amazon Bedrock, leveraging the Aurora PostgreSQL database we created in [Part 1.](https://github.com/elizabethfuentes12/aws-customer-support-rag-agent-bedrock/tree/main/01-create-aurora-pgvector#readme)
+Welcome to the second part of our series on building a WhatsApp-powered RAG Travel Support Agent. In this installment, we'll focus on setting up a Knowledge Base for Amazon Bedrock, leveraging the Aurora PostgreSQL database we created in [Part 1.](https://github.com/build-on-aws/rag-postgresql-agent-bedrock/tree/main/01-create-aurora-pgvector#readme)
 
 
 ## Overview
@@ -20,7 +20,7 @@ Our Knowledge Base will automatically process unstructured text data stored in a
 2. Generate vector embeddings for these chunks
 3. Store both the chunks and vectors in our PostgreSQL database
 
-The data we're using consists of [PDFs containing information about common](https://github.com/elizabethfuentes12/aws-customer-support-rag-agent-bedrock/tree/main/02-create-bedrock-knowledge-bases/airline-qa-base/PDF) issues faced by a generic airline, providing a robust foundation for our travel support agent.
+The data we're using consists of [PDFs containing information about common](https://github.com/build-on-aws/rag-postgresql-agent-bedrock/tree/main/02-create-bedrock-knowledge-bases/airline-qa-base/PDF) issues faced by a generic airline, providing a robust foundation for our travel support agent.
 
 ## Key Components
 
@@ -38,7 +38,7 @@ We'll create an IAM role with specific permissions to allow the Knowledge Base s
 
 ## IAM Role Permissions
 
-The [IAM role](https://github.com/elizabethfuentes12/aws-customer-support-rag-agent-bedrock/blob/main/02-create-bedrock-knowledge-bases/kb_role/create_role.py) we create will have the following allowed actions:
+The [IAM role](https://github.com/build-on-aws/rag-postgresql-agent-bedrock/blob/main/02-create-bedrock-knowledge-bases/kb_role/create_role.py) we create will have the following allowed actions:
 
 - `bedrock:InvokeModel`
 - `secretsmanager:GetSecretValue`
@@ -102,8 +102,8 @@ cdk deploy
 
 ## ✅ Key Configurations
 
-- Knowledge Base configuration can be found in the [knowledgebase.py](https://github.com/elizabethfuentes12/aws-customer-support-rag-agent-bedrock/blob/main/02-create-bedrock-knowledge-bases/knowledge_base/knowledgebase.py) code in the CDK stack.
-- S3 bucket data source configuration is in the [datasource.py](https://github.com/elizabethfuentes12/aws-customer-support-rag-agent-bedrock/blob/main/02-create-bedrock-knowledge-bases/knowledge_base/datasource.py) code.
+- Knowledge Base configuration can be found in the [knowledgebase.py](https://github.com/build-on-aws/rag-postgresql-agent-bedrock/blob/main/02-create-bedrock-knowledge-bases/knowledge_base/knowledgebase.py) code in the CDK stack.
+- S3 bucket data source configuration is in the [datasource.py](https://github.com/build-on-aws/rag-postgresql-agent-bedrock/blob/main/02-create-bedrock-knowledge-bases/knowledge_base/datasource.py) code.
 
 
 ### Test your Knowledge Base

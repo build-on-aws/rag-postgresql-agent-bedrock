@@ -117,8 +117,6 @@ You can monitor the deployment progress in the [AWS CloudFormation console](http
 This stack creates a new VPC, be aware of reaching [service limits](https://docs.aws.amazon.com/vpc/latest/userguide/amazon-vpc-limits.html) and adjust in advance. Also, since the app uses [RDS Data API](https://docs.aws.amazon.com/rdsdataservice/latest/APIReference/API_ExecuteStatement.html), it doesn't need internet access (nat_gateways = 0)
 
 
-
-
 ```python 
 # Crear una VPC
 self.vpc = ec2.Vpc(self, "VPC", max_azs=2, nat_gateways=0)
@@ -146,7 +144,7 @@ Be aware of the costs associated with the following AWS services:
 - [Amazon Lambda Pricing](https://aws.amazon.com/lambda/pricing/)
 - [AWS Systems Manager pricing](https://aws.amazon.com/systems-manager/pricing/)
 
-> 👾 Note: You can custom the Aurora PostgreSQL Serverless v2 database cluster [settings](https://github.com/elizabethfuentes12/aws-customer-support-rag-agent-bedrock/blob/main/01-create-aurora-pgvector/rds/rds.py). For more information, refer to the [Requirements and limitations for Aurora Serverless v2](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-serverless-v2.requirements.html).
+> 👾 Note: You can custom the Aurora PostgreSQL Serverless v2 database cluster [settings](https://github.com/build-on-aws/rag-postgresql-agent-bedrock/blob/main/01-create-aurora-pgvector/rds/rds.py). For more information, refer to the [Requirements and limitations for Aurora Serverless v2](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-serverless-v2.requirements.html).
 
 ## Next Steps
 
