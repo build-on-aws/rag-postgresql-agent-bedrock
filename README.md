@@ -5,7 +5,7 @@ In our previous blog post, "[Elevating Customer Support With a Whatsapp Assistan
 This architecture eliminates the need for complex conversation management logic, as Bedrock agents handle session tracking, while the Knowledge Base for Amazon Bedrock using Aurora PostgreSQL ensures highly accurate and contextual responses, and [Amazon DynamoDB](https://aws.amazon.com/pm/dynamodb) serves a dual purpose: storing both passenger information and support tickets.
 
 Key features of our solution include:
-1. Intelligent query handling using RAG technology.
+1. Intelligent query handling using RAG.
 2. Personalized support based on individual traveler data.
 3. Automatic creation of support tickets for unresolved issues.
 4. Ability to query and manage the support ticket database.
