@@ -79,6 +79,9 @@ git clone https://github.com/build-on-aws/rag-postgresql-agent-bedrock
 
 ## Part 4: [Enhanced User Interaction: Integrating a WhatsApp Assistant with Amazon Bedrock Agent.](https://github.com/build-on-aws/rag-postgresql-agent-bedrock/tree/main/04-whatsapp-app#readme)
 
+>👾 **Tip:** If you don't want to use WhatsApp, that's fine! You can use this JavaScript application, which creates a UI that allows you to use the Agents and Knowledge Bases for Amazon Bedrock available in your AWS account. [Building reactjs Generative AI apps with Amazon Bedrock and AWS JavaScript SDK ](https://github.com/build-on-aws/building-reactjs-gen-ai-apps-with-amazon-bedrock-javascript-sdk)
+
+
 ## Conclusion
 
 This enhanced WhatsApp Travel Assistant demonstrates the power of AWS's integrated AI and database services. By leveraging Amazon Bedrock's agent and knowledge base capabilities, along with Aurora PostgreSQL and DynamoDB, we've created a more streamlined, powerful, and maintainable solution.
