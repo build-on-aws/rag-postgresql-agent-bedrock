@@ -15,7 +15,7 @@ This application is built in four stages using infrastructure as code with [AWS 
 ![Digrama parte 1](/imagen/diagram_1.jpg)
 
 
-✅ **AWS Level**: Intermediate - 200   
+✅ **AWS Level**: Advanced - 300   
 
 **Prerequisites:**
 -  [Foundational knowledge of Python](https://catalog.us-east-1.prod.workshops.aws/workshops/3d705026-9edc-40e8-b353-bdabb116c89c/)
