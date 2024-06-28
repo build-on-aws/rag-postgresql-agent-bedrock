@@ -136,8 +136,11 @@ cd 04-whatsapp-bedrock-agent
 In [whatsapp_app_stack.py](./whatsapp_app/whatsapp_app_stack.py) edit this line with the whatsapp Facebook Developer app number: 
 
 `
-DISPLAY_PHONE_NUMBER = 'YOU-NUMBER'
+DISPLAY_PHONE_NUMBER = 'YOUR-WHATSAPP-NUMBER'
 `
+
+![Digrama parte 1](./imagenes/whaytsapp_number.jpg)
+
 ### Step 3: Deploy architecture with CDK.
 
 ✅ **Create The Virtual Environment**:
