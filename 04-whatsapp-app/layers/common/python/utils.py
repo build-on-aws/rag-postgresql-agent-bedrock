@@ -45,7 +45,9 @@ def normalize_phone(phone):
     ### Country specific changes required on phone numbers
     
     ### Mexico specific, remove 1 after 52
-    if(phone[0:2]=='52' and phone[2] == '1'):
+    if(phone[0:3]=='+52' and phone[3] == '1'):
+        normalized = phone[0:3] + phone[4:]
+    elif(phone[0:2]=='52' and phone[2] == '1'):
         normalized = phone[0:2] + phone[3:]
     else:
         normalized  = phone
