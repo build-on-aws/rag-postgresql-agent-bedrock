@@ -5,12 +5,12 @@ In our previous blog post, "[Elevating Customer Support With a Whatsapp Assistan
 This architecture eliminates the need for complex conversation management logic, as Bedrock agents handle session tracking, while the Knowledge Base for Amazon Bedrock using Aurora PostgreSQL ensures highly accurate and contextual responses, and [Amazon DynamoDB](https://aws.amazon.com/pm/dynamodb) serves a dual purpose: storing both passenger information and support tickets.
 
 Key features of our solution include:
-1. Intelligent query handling using RAG.
+1. Intelligent query handling using RAG technique.
 2. Personalized support based on individual traveler data.
 3. Automatic creation of support tickets for unresolved issues.
 4. Ability to query and manage the support ticket database.
 
-This application is built in four stages using infrastructure as code with [AWS Cloud Development Kit (CDK)](https://aws.amazon.com/cdk) with Python to deploy. In the first stage, an Amazon Aurora PostgreSQL vector database is set up. In the second stage, the Knowledge Base for Amazon Bedrock is created using the established database. The third stage involves creating an Amazon Bedrock agent. Lastly, in the fourth stage, a WhatsApp application is deployed to provide the user interface for the system.
+This application is built in four stages using infrastructure as code with [AWS Cloud Development Kit (CDK)](https://aws.amazon.com/cdk) for python. In the first stage, an Amazon Aurora PostgreSQL vector database is set up. In the second stage, the Knowledge Base for Amazon Bedrock is created using the established database. The third stage involves creating an Amazon Bedrock agent. And in the fourth stage, a WhatsApp application is deployed to provide the user interface for the system.
 
 ![Digrama parte 1](/imagen/diagram_1.jpg)
 
@@ -44,40 +44,51 @@ This application is built in four stages using infrastructure as code with [AWS 
 
 ## This is what you are going to build:
 
-![Digrama parte 1](/imagen/diagram.png)
+![Digrama parte 1](/imagen/diagram_2.png)
 
-1. **User Interaction:** The process begins when a user sends a voice note/text message via WhatsApp.
+1. **Inbound Message Webhook:**
+    
+    The process begins when a user sends a voice note/text message via WhatsApp. The voice/text message is received through an Amazon API Gateway and processed by AWS Lambda Function.
+    
+    The message details are stored in Amazon DynamoDB table for decoupling and processing.
 
-2. **Message Processing:** The voice/text message is received through an Amazon API Gateway and processed by AWS Lambda Function.
+1. **Audio Text Process:**
+    
+    If there is a  voice message, it is stored in an Amazon S3 bucket. Then, Amazon Transcribe converts the audio to text, which is sent to the assistant.
 
-3. **Data Storage:** The message details are stored in Amazon DynamoDB table for record-keeping.
+    If it is only a text message it will go directly to the assitant input.
 
-4. **Audio Processing:** The voice note is streamed to an Amazon S3 bucket.
+3. **Assistant Response:** 
 
-5. **Transcription:** Amazon Transcribe converts the audio to text.
 
-6. **Intelligent Assistance:** The transcribed text is sent to an Agent for Amazon Bedrock. 
-
-7. **Response Generation:** The Agent processes the query and generates a response, potentially accessing additional data from DynamoDB table or a knowledge base.
-
-8. **Action Execution:** Depending on the user's request, various actions can be triggered, such as creating support tickets or retrieving passenger information.
-
-9. **Response Delivery:** The final response is sent back to the user via WhatsApp.
+    The Agent processes the query and generates a response, potentially accessing additional data from DynamoDB table or a knowledge base.
+    
+    Depending on the user's request, various actions can be triggered, such as creating support tickets or retrieving passenger information.
+    
+    The final response is sent back to the user via WhatsApp.
 
 ## Let's build!
 
 ## Part 0: Clone the repo
 
-```
+```zsh
 git clone https://github.com/build-on-aws/rag-postgresql-agent-bedrock
 ```
 ## Part 1: [Building an Amazon Aurora PostgreSQL vector database as a Knowledge Base for Amazon Bedrock.](https://github.com/build-on-aws/rag-postgresql-agent-bedrock/tree/main/01-create-aurora-pgvector#readme)
 
+For setting up an Amazon Aurora PostgreSQL vector database. It explains the importance of vector databases for implementing Retrieval Augmented Generation (RAG).  AWS Cloud Development Kit (CDK) for Python is used to set up the database infrastructure. This  also includes detailed steps for preparing the database, such as installing extensions, creating schemas and roles, and setting up tables and indexes using Custom Constructs. 
+
 ## Part 2: [Building a Knowledge Base for Amazon Bedrock using Aurora PostgreSQL.](https://github.com/build-on-aws/rag-postgresql-agent-bedrock/tree/main/02-create-bedrock-knowledge-bases#readme)
+
+ It focuses on creating a Knowledge Base for Amazon Bedrock, which involves setting up an S3 bucket as a data source, configuring necessary IAM roles and permissions, and storing information in AWS Systems Manager Parameter Store. The Knowledge Base automatically processes unstructured text data from PDFs, converts it into text chunks, generates vector embeddings, and stores them in a PostgreSQL database. The guide provides step-by-step instructions for setup and  deployment.
 
 ## Part 3: [Building an Agent for Amazon Bedrock to Search Knowledge Base and Manage Amazon DynamoDB Data.](https://github.com/build-on-aws/rag-postgresql-agent-bedrock/tree/main/03-rag-agent-bedrock#readme)
 
+The project demonstrates how to build an AI-powered agent capable of querying and analyzing data stored in a PostgreSQL database using natural language prompts.
+
 ## Part 4: [Enhanced User Interaction: Integrating a WhatsApp Assistant with Amazon Bedrock Agent.](https://github.com/build-on-aws/rag-postgresql-agent-bedrock/tree/main/04-whatsapp-app#readme)
+
+The final part of a four-part series on building an advanced WhatsApp-powered RAG Travel Support Agent using Amazon Bedrock Agent. The project integrates various AWS services, including API Gateway, Lambda, DynamoDB, S3, and Transcribe, to create a workflow for processing and responding to user messages. The application can handle both text and voice messages, transcribe audio, and leverage a knowledge base built on Aurora PostgreSQL for information retrieval. 
 
 >👾 **Tip:** If you don't want to use WhatsApp, that's fine! You can use the following JavaScript application, which creates a UI that allows you to use the Agents and Knowledge Bases for Amazon Bedrock available in your AWS account --> [Building ReactJS Generative AI apps with Amazon Bedrock and AWS JavaScript SDK](https://github.com/build-on-aws/building-reactjs-gen-ai-apps-with-amazon-bedrock-javascript-sdk)
 
@@ -88,7 +99,7 @@ This enhanced WhatsApp Travel Assistant demonstrates the power of AWS's integrat
 
 The addition of the support ticket system provides a complete end-to-end customer service experience, allowing for seamless escalation of complex issues while maintaining the benefits of AI-powered initial interactions.
 
-We encourage you to build upon this foundation, perhaps by expanding the knowledge base, fine-tuning the Bedrock agent's responses, or integrating with additional travel-related services.
+We encourage you to build upon this foundation, perhaps by expanding the knowledge base, changing the agent's responses, or integrating with additional services.
 
 Thank you for joining us on this journey to revolutionize travel customer support with AWS technologies!
 
