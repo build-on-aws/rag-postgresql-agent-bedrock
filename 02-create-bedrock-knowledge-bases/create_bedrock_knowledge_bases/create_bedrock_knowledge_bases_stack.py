@@ -52,10 +52,10 @@ class CreateBedrockKnowledgeBasesStack(Stack):
             roleArn =  kb_service_role.arn, **common_kb_property)
         description = "documents regarding to help the passenger"
         # Bedrock Knowledge Base
-        bedrock_kb_property = dict(description = description, name= "amazon-bedrock-knowledge", **base_kb_property)
+        bedrock_kb_property = dict(description = description, name= "la-inventada-airlines-knowledge-base", **base_kb_property)
         bedrock_kb = KnowledgeBases(self, "KB1", bedrock_kb_property)
         bedrock_kb.node.add_dependency(kb_service_role)
-        bedrock_ds  = KnowledgeBaseDatasource(self, "DS1", bedrock_kb.kb_id, "Bedrock-airline-qa", bucketArn, "airline-qa-base",description)
+        bedrock_ds  = KnowledgeBaseDatasource(self, "DS1", bedrock_kb.kb_id, "Bedrock-airlines-qa", bucketArn, "airline-qa-base",description)
 
         bedrock_ds.node.add_dependency(s3_deploy.s3deploy)
 

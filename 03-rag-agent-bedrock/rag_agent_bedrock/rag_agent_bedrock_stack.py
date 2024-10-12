@@ -111,12 +111,18 @@ class RagAgentBedrockStack(Stack):
         file_path_ag_data = './rag_agent_bedrock/ag_data.json'
         file_path_agent_data = './rag_agent_bedrock/agent_data.json'
         file_path_kb_data = './rag_agent_bedrock/kb_data.json'
+        agent_prompt = './rag_agent_bedrock/agent_prompt.txt'
 
         Fn  = Lambdas(self,'Fn',ACCOUNT_ID)
         Tbl = Tables(self, 'Tbl')
 
         with open(file_path_agent_data, 'r') as file:
             agent_data = json.load(file)
+
+        with open(agent_prompt, 'r', encoding='utf-8') as f:
+            improved_prompt = f.read()
+
+        agent_data["agent_instruction"] = improved_prompt
 
          #ag_data exists
         if  os.path.exists(file_path_ag_data): 
@@ -158,7 +164,7 @@ class RagAgentBedrockStack(Stack):
         Fn.dynamodb_put_item_random_key.add_environment(key='ENV_KEY_NAME', value="ticket_number")
         Tbl.ticketTable.grant_full_access(Fn.dynamodb_put_item_random_key)
         
-        agent_name = "la_inventada_agent"
+        agent_name = "assistant-for-la-inventada-airlines-q-about-users-creates-queries-support-tickets"
         print("Create La Inventada Agent")
         agent_action_group_properties = agent_action_group_property(ag_data)
         agent_knowledge_base_property =create_kb_property(kb_data) 
