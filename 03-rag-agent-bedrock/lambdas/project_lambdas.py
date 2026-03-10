@@ -15,7 +15,7 @@ BASE_LAMBDA_CONFIG = dict(
 )
 
 PYTHON_LAMBDA_CONFIG = dict(
-    runtime=aws_lambda.Runtime.PYTHON_3_11, **BASE_LAMBDA_CONFIG
+    runtime=aws_lambda.Runtime.PYTHON_3_12, **BASE_LAMBDA_CONFIG
 )
 
 from layers import Layers

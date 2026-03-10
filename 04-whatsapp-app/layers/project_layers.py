@@ -16,10 +16,9 @@ class Layers(Construct):
         bs4_requests = aws_lambda.LayerVersion(
             self, "Bs4Requests", code=aws_lambda.Code.from_asset("./layers/bs4_requests.zip"),
             compatible_runtimes = [
-                aws_lambda.Runtime.PYTHON_3_8,
-                aws_lambda.Runtime.PYTHON_3_9,
                 aws_lambda.Runtime.PYTHON_3_10,
-                aws_lambda.Runtime.PYTHON_3_11], 
+                aws_lambda.Runtime.PYTHON_3_11,
+                aws_lambda.Runtime.PYTHON_3_12],
             description = 'BeautifulSoup y Requests')
         
         self.bs4_requests = bs4_requests
@@ -27,10 +26,9 @@ class Layers(Construct):
         aiofile_transcribe = aws_lambda.LayerVersion(
             self, "aiofile-transcribe", code=aws_lambda.Code.from_asset("./layers/aiofile-amazon-transcribe.zip"),
             compatible_runtimes = [
-                aws_lambda.Runtime.PYTHON_3_8,
-                aws_lambda.Runtime.PYTHON_3_9,
                 aws_lambda.Runtime.PYTHON_3_10,
-                aws_lambda.Runtime.PYTHON_3_11], 
+                aws_lambda.Runtime.PYTHON_3_11,
+                aws_lambda.Runtime.PYTHON_3_12],
             description = 'aiofile y amazon-transcribe', layer_version_name = "aiofile-transcribe-streamig"
         )
 
@@ -39,10 +37,9 @@ class Layers(Construct):
         common = aws_lambda.LayerVersion(
             self, "common-layer", code=aws_lambda.Code.from_asset("./layers/common/"),
             compatible_runtimes = [
-                aws_lambda.Runtime.PYTHON_3_8,
-                aws_lambda.Runtime.PYTHON_3_9,
                 aws_lambda.Runtime.PYTHON_3_10,
-                aws_lambda.Runtime.PYTHON_3_11], 
+                aws_lambda.Runtime.PYTHON_3_11,
+                aws_lambda.Runtime.PYTHON_3_12],
             description = 'librerias adicionales', layer_version_name = "librerias-adicionales"
         )
         

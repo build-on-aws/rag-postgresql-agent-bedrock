@@ -1,13 +1,13 @@
 
-from langchain import LLMMathChain
-from langchain.llms.bedrock import Bedrock
+from langchain_community.chains import LLMMathChain
+from langchain_aws import BedrockLLM
 from langchain.memory import ConversationBufferMemory
-from langchain.memory.chat_message_histories import DynamoDBChatMessageHistory
+from langchain_community.chat_message_histories import DynamoDBChatMessageHistory
 from langchain.agents import load_tools, initialize_agent, AgentType,Tool
 
 
 def match_function(model_id,bedrock_client):
-    math_chain_llm = Bedrock(model_id=model_id,model_kwargs={"temperature":0,"stop_sequences" : ["```output"]},client=bedrock_client)
+    math_chain_llm = BedrockLLM(model_id=model_id,model_kwargs={"temperature":0,"stop_sequences" : ["```output"]},client=bedrock_client)
     llm_math_chain = LLMMathChain(llm=math_chain_llm, verbose=True)
 
     llm_math_chain.llm_chain.prompt.template = """Human: Given a question with a math problem, provide only a single line mathematical expression that solves the problem in the following format. Don't solve the expression only create a parsable expression.
